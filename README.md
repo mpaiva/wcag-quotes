@@ -33,19 +33,19 @@ Provide text alternatives for non-text content.
 
 ##### Product Manager Recommendation:
 
-    Prioritize adding alt text to all images on the website.
+Prioritize adding alt text to all images on the website.
 
 ##### UX Recommendation:
 
-    Include placeholders for alt text in the UI/UX design.
+Include placeholders for alt text in the UI/UX design.
 
 ##### Developer Recommendation:
 
-    Ensure all img tags have a descriptive alt attribute.
+Ensure all img tags have a descriptive alt attribute.
 
 ##### QA Recommendation:
 
-    Test to ensure that screen readers correctly announce all images.
+Test to ensure that screen readers correctly announce all images.
 
 #### A thankful note by the same persona:
 
@@ -81,19 +81,19 @@ Provide an alternative to video or audio-only content.
 
 ##### Product Manager Recommendation:
 
-    Allocate resources to create transcriptions for audio and captions for video content.
+Allocate resources to create transcriptions for audio and captions for video content.
 
 ##### UX Recommendation:
 
-    Design a UI that allows users to toggle captions on/off easily.
+Design a UI that allows users to toggle captions on/off easily.
 
 ##### Developer Recommendation:
 
-    Integrate captions and transcriptions into the video and audio players.
+Integrate captions and transcriptions into the video and audio players.
 
 ##### QA Recommendation:
 
-    Test the functionality of toggling captions and transcriptions across multiple devices and browsers.
+Test the functionality of toggling captions and transcriptions across multiple devices and browsers.
 
 #### A thankful note by the same persona:
 
@@ -129,19 +129,19 @@ Captions are provided for all prerecorded audio content in synchronized media.
 
 ##### Product Manager Recommendation:
 
-    Ensure all video content is accompanied by synchronized captions.
+Ensure all video content is accompanied by synchronized captions.
 
 ##### UX Recommendation:
 
-    Include a conspicuous "CC" button to toggle captions on/off.
+Include a conspicuous "CC" button to toggle captions on/off.
 
 ##### Developer Recommendation:
 
-    Implement a closed-captioning feature that syncs accurately with the video.
+Implement a closed-captioning feature that syncs accurately with the video.
 
 ##### QA Recommendation:
 
-    Verify that captions are accurate, well-timed, and easily toggled on/off.
+Verify that captions are accurate, well-timed, and easily toggled on/off.
 
 #### A thankful note by the same persona:
 
@@ -175,21 +175,21 @@ An alternative for time-based media or an audio description is provided for all 
 
 #### Team Recommendations:
 
-##### Pr##### Manager Recommendation:
+##### Product Manager Recommendation:
 
-- Invest in creating audio descriptions for all prerecorded video content to enhance accessibility.
+Invest in creating audio descriptions for all prerecorded video content to enhance accessibility.
 
 ##### UX Recommendation:
 
-- Design video players with an easy-to-find button for enabling audio descriptions.
+Design video players with an easy-to-find button for enabling audio descriptions.
 
 ##### Developer Recommendation:
 
-- Ensure the video player supports audio descriptions and that they are properly synchronized with the video.
+Ensure the video player supports audio descriptions and that they are properly synchronized with the video.
 
 ##### QA Recommendation:
 
-- Test audio descriptions for accuracy and synchronization with the visual content of the videos.
+Test audio descriptions for accuracy and synchronization with the visual content of the videos.
 
 #### A thankful note by the same persona:
 
@@ -225,19 +225,19 @@ An alternative for time-based media or audio description of the prerecorded vide
 
 ##### Product Manager Recommendation:
 
-    Provide resources to create audio descriptions for all prerecorded video content.
+Provide resources to create audio descriptions for all prerecorded video content.
 
 ##### UX Recommendation:
 
-    Design an intuitive UI that lets users easily enable or disable audio descriptions.
+Design an intuitive UI that lets users easily enable or disable audio descriptions.
 
 ##### Developer Recommendation:
 
-    Implement audio descriptions that can be toggled on/off and are synced with the video content.
+Implement audio descriptions that can be toggled on/off and are synced with the video content.
 
 ##### QA Recommendation:
 
-    Test the accuracy and synchronization of audio descriptions across multiple devices.
+Test the accuracy and synchronization of audio descriptions across multiple devices.
 
 #### A thankful note by the same persona:
 
@@ -273,19 +273,19 @@ Audio descriptions are provided for all prerecorded video content in synchronize
 
 ##### Product Manager Recommendation:
 
-    Ensure all prerecorded videos have an audio description option.
+Ensure all prerecorded videos have an audio description option.
 
 ##### UX Recommendation:
 
-    Include an easy-to-find option to toggle audio descriptions on/off in the video player controls.
+Include an easy-to-find option to toggle audio descriptions on/off in the video player controls.
 
 ##### Developer Recommendation:
 
-    Implement audio description tracks that are easy to enable or disable.
+Implement audio description tracks that are easy to enable or disable.
 
 ##### QA Recommendation:
 
-    Test for the seamless toggling and synchronization of audio descriptions.
+Test for the seamless toggling and synchronization of audio descriptions.
 
 #### A thankful note by the same persona:
 
@@ -369,19 +369,19 @@ Where pauses in foreground audio are insufficient to allow audio descriptions to
 
 ##### Product Manager Recommendation:
 
-    Allocate additional resources to ensure that videos include extended audio descriptions for complex scenes.
+Allocate additional resources to ensure that videos include extended audio descriptions for complex scenes.
 
 ##### UX Recommendation:
 
-    Design video players with the capability to handle extended audio descriptions, ensuring a seamless viewing experience for users with visual impairments.
+Design video players with the capability to handle extended audio descriptions, ensuring a seamless viewing experience for users with visual impairments.
 
 ##### Developer Recommendation:
 
-    Develop the functionality to extend pauses or provide additional audio description tracks as needed for comprehensive descriptions.
+Develop the functionality to extend pauses or provide additional audio description tracks as needed for comprehensive descriptions.
 
 ##### QA Recommendation:
 
-    Test audio descriptions thoroughly to confirm that they provide a clear and accurate narrative during extended pauses in the original audio.
+Test audio descriptions thoroughly to confirm that they provide a clear and accurate narrative during extended pauses in the original audio.
 
 #### A thankful note by the same persona:
 
@@ -417,19 +417,19 @@ A full text alternative for all prerecorded video content in synchronized media 
 
 ##### Product Manager Recommendation:
 
-    Ensure comprehensive text alternatives are available for all video content, offering equivalent information for those who need it.
+Ensure comprehensive text alternatives are available for all video content, offering equivalent information for those who need it.
 
 ##### UX Recommendation:
 
-    Create an easily navigable text alternative that is synchronized with the video content.
+Create an easily navigable text alternative that is synchronized with the video content.
 
 ##### Developer Recommendation:
 
-    Implement a mechanism to link to or display the text alternative within the video player interface.
+Implement a mechanism to link to or display the text alternative within the video player interface.
 
 ##### QA Recommendation:
 
-    Test the text alternative for accuracy and ensure it provides an equivalent experience to the audio-visual content.
+Test the text alternative for accuracy and ensure it provides an equivalent experience to the audio-visual content.
 
 #### A thankful note by the same persona:
 
@@ -465,19 +465,19 @@ An alternative for time-based media is provided for all live audio content in sy
 
 ##### Product Manager Recommendation:
 
-    Provide live audio descriptions or commentary for all live events broadcasted on the platform.
+Provide live audio descriptions or commentary for all live events broadcasted on the platform.
 
 ##### UX Recommendation:
 
-    Design the audio player with accessible features for starting and controlling the live audio feed.
+Design the audio player with accessible features for starting and controlling the live audio feed.
 
 ##### Developer Recommendation:
 
-    Ensure the live audio stream is compatible with various devices and assistive technologies, and has a clear, user-friendly interface.
+Ensure the live audio stream is compatible with various devices and assistive technologies, and has a clear, user-friendly interface.
 
 ##### QA Recommendation:
 
-    Test the live audio functionality during actual events to ensure a smooth and accessible experience for users with visual impairments.
+Test the live audio functionality during actual events to ensure a smooth and accessible experience for users with visual impairments.
 
 #### A thankful note by the same persona:
 
@@ -513,19 +513,19 @@ Information, structure, and relationships conveyed through presentation can be p
 
 ##### Product Manager Recommendation:
 
-    Ensure all UI elements are clearly labeled and their function is evident.
+Ensure all UI elements are clearly labeled and their function is evident.
 
 ##### UX Recommendation:
 
-    Design intuitive labels and include tooltips for more complex buttons or elements.
+Design intuitive labels and include tooltips for more complex buttons or elements.
 
 ##### Developer Recommendation:
 
-    Use semantic HTML and ARIA landmarks to help define the structure and purpose of elements.
+Use semantic HTML and ARIA landmarks to help define the structure and purpose of elements.
 
 ##### QA Recommendation:
 
-    Test for the clarity and accessibility of all UI elements across different platforms.
+Test for the clarity and accessibility of all UI elements across different platforms.
 
 #### A thankful note by the same persona:
 
@@ -561,19 +561,19 @@ When the sequence in which content is presented affects its meaning, a correct r
 
 ##### Product Manager Recommendation:
 
-    Review the site layout to ensure logical flow and usability.
+Review the site layout to ensure logical flow and usability.
 
 ##### UX Recommendation:
 
-    Design the UI so that content follows a logical, intuitive sequence.
+Design the UI so that content follows a logical, intuitive sequence.
 
 ##### Developer Recommendation:
 
-    Use semantic markup to maintain a meaningful sequence in the DOM.
+Use semantic markup to maintain a meaningful sequence in the DOM.
 
 ##### QA Recommendation:
 
-    Test the content's reading sequence using different accessibility tools.
+Test the content's reading sequence using different accessibility tools.
 
 #### A thankful note by the same persona:
 
@@ -609,19 +609,19 @@ Instructions provided for understanding and operating content do not rely solely
 
 ##### Product Manager Recommendation:
 
-    Include multiple identifiers for actionable items beyond just sensory characteristics.
+Include multiple identifiers for actionable items beyond just sensory characteristics.
 
 ##### UX Recommendation:
 
-    Supplement sensory cues with text or auditory descriptions.
+Supplement sensory cues with text or auditory descriptions.
 
 ##### Developer Recommendation:
 
-    Implement textual labels alongside sensory characteristics in instructions.
+Implement textual labels alongside sensory characteristics in instructions.
 
 ##### QA Recommendation:
 
-    Test to make sure instructions are clear even when visual or auditory cues are absent.
+Test to make sure instructions are clear even when visual or auditory cues are absent.
 
 #### A thankful note by the same persona:
 
@@ -657,19 +657,19 @@ Content does not restrict its view and operation to a single display orientation
 
 ##### Product Manager Recommendation:
 
-    Allow for both portrait and landscape orientations unless it's crucial to the function of the feature.
+Allow for both portrait and landscape orientations unless it's crucial to the function of the feature.
 
 ##### UX Recommendation:
 
-    Design UI layouts that adapt gracefully to changes in orientation.
+Design UI layouts that adapt gracefully to changes in orientation.
 
 ##### Developer Recommendation:
 
-    Implement responsive design that accommodates various screen orientations.
+Implement responsive design that accommodates various screen orientations.
 
 ##### QA Recommendation:
 
-    Test that the site or app functions well in both portrait and landscape modes.
+Test that the site or app functions well in both portrait and landscape modes.
 
 #### A thankful note by the same persona:
 
@@ -705,19 +705,19 @@ The purpose of each input field collecting information about the user can be pro
 
 ##### Product Manager Recommendation:
 
-    Ensure all input fields in forms have clear and understandable labels.
+Ensure all input fields in forms have clear and understandable labels.
 
 ##### UX Recommendation:
 
-    Use placeholders, tooltips, or helper text to guide the user on what information is required.
+Use placeholders, tooltips, or helper text to guide the user on what information is required.
 
 ##### Developer Recommendation:
 
-    Utilize autocomplete attributes where applicable to assist with form filling.
+Utilize autocomplete attributes where applicable to assist with form filling.
 
 ##### QA Recommendation:
 
-    Verify that all input fields are easily identifiable and functional.
+Verify that all input fields are easily identifiable and functional.
 
 #### A thankful note by the same persona:
 
@@ -753,19 +753,19 @@ Color is not used as the only visual means of conveying information, indicating 
 
 ##### Product Manager Recommendation:
 
-    Make sure color alone is not the only indicator for important actions or information.
+Make sure color alone is not the only indicator for important actions or information.
 
 ##### UX Recommendation:
 
-    Combine color with other visual indicators like text, shapes, or icons.
+Combine color with other visual indicators like text, shapes, or icons.
 
 ##### Developer Recommendation:
 
-    Implement visual cues alongside color to convey information effectively.
+Implement visual cues alongside color to convey information effectively.
 
 ##### QA Recommendation:
 
-    Test the design for accessibility with color blindness simulators.
+Test the design for accessibility with color blindness simulators.
 
 #### A thankful note by the same persona:
 
@@ -801,19 +801,19 @@ If any audio on a Web page plays automatically for more than 3 seconds, either a
 
 ##### Product Manager Recommendation:
 
-    Avoid autoplaying audio or provide clear controls to stop or adjust the volume.
+Avoid autoplaying audio or provide clear controls to stop or adjust the volume.
 
 ##### UX Recommendation:
 
-    Design visible and easy-to-use audio controls on the media player.
+Design visible and easy-to-use audio controls on the media player.
 
 ##### Developer Recommendation:
 
-    Implement audio controls that can be easily accessed and used.
+Implement audio controls that can be easily accessed and used.
 
 ##### QA Recommendation:
 
-    Test to make sure audio controls are functional and accessible on different devices.
+Test to make sure audio controls are functional and accessible on different devices.
 
 #### A thankful note by the same persona:
 
@@ -849,19 +849,19 @@ Text and images of text have a contrast ratio of at least 4.5:1, except for larg
 
 ##### Product Manager Recommendation:
 
-    Maintain a minimum contrast ratio for text to ensure readability.
+Maintain a minimum contrast ratio for text to ensure readability.
 
 ##### UX Recommendation:
 
-    Use a color contrast tool to check and validate text-to-background contrast.
+Use a color contrast tool to check and validate text-to-background contrast.
 
 ##### Developer Recommendation:
 
-    Use CSS to set text and background colors that meet the minimum contrast requirements.
+Use CSS to set text and background colors that meet the minimum contrast requirements.
 
 ##### QA Recommendation:
 
-    Test contrast ratios on multiple devices under various lighting conditions.
+Test contrast ratios on multiple devices under various lighting conditions.
 
 #### A thankful note by the same persona:
 
@@ -897,19 +897,19 @@ Except for captions and images of text, text can be resized without assistive te
 
 ##### Product Manager Recommendation:
 
-    Ensure that text on the site is resizable without breaking layout or functionality.
+Ensure that text on the site is resizable without breaking layout or functionality.
 
 ##### UX Recommendation:
 
-    Design a flexible layout that accommodates text resizing.
+Design a flexible layout that accommodates text resizing.
 
 ##### Developer Recommendation:
 
-    Use relative units for text sizes to make sure they can be resized easily.
+Use relative units for text sizes to make sure they can be resized easily.
 
 ##### QA Recommendation:
 
-    Test text resizing across various browsers to ensure readability and usability.
+Test text resizing across various browsers to ensure readability and usability.
 
 #### A thankful note by the same persona:
 
@@ -945,19 +945,19 @@ If the same visual presentation can be made using text alone, an image is not us
 
 ##### Product Manager Recommendation:
 
-    Avoid using images for text unless absolutely necessary.
+Avoid using images for text unless absolutely necessary.
 
 ##### UX Recommendation:
 
-    If text must be part of an image, make sure it has high contrast and is legible.
+If text must be part of an image, make sure it has high contrast and is legible.
 
 ##### Developer Recommendation:
 
-    Use CSS and web fonts to style text, avoiding the need for text within images.
+Use CSS and web fonts to style text, avoiding the need for text within images.
 
 ##### QA Recommendation:
 
-    Check for the presence of images used as text and verify if they are compliant with guidelines.
+Check for the presence of images used as text and verify if they are compliant with guidelines.
 
 #### A thankful note by the same persona:
 
@@ -993,19 +993,19 @@ Text or images of text have a contrast ratio of at least 7:1, except for large t
 
 ##### Product Manager Recommendation:
 
-    Aim for an enhanced contrast ratio for improved readability.
+Aim for an enhanced contrast ratio for improved readability.
 
 ##### UX Recommendation:
 
-    Use a color contrast tool to verify that text-to-background contrast exceeds minimum guidelines.
+Use a color contrast tool to verify that text-to-background contrast exceeds minimum guidelines.
 
 ##### Developer Recommendation:
 
-    Utilize CSS variables to easily adjust and manage contrast ratios.
+Utilize CSS variables to easily adjust and manage contrast ratios.
 
 ##### QA Recommendation:
 
-    Perform rigorous tests on contrast ratios under different conditions to ensure optimal readability.
+Perform rigorous tests on contrast ratios under different conditions to ensure optimal readability.
 
 #### A thankful note by the same persona:
 
@@ -1041,19 +1041,19 @@ Audio does not contain background sounds, or the background sounds are at least 
 
 ##### Product Manager Recommendation:
 
-    Minimize or eliminate background audio to prioritize speech content.
+Minimize or eliminate background audio to prioritize speech content.
 
 ##### UX Recommendation:
 
-    Provide an option to mute or control the volume of background sounds.
+Provide an option to mute or control the volume of background sounds.
 
 ##### Developer Recommendation:
 
-    Implement audio controls and levels that align with the guidelines.
+Implement audio controls and levels that align with the guidelines.
 
 ##### QA Recommendation:
 
-    Test for audio clarity and ensure that background audio does not drown out speech.
+Test for audio clarity and ensure that background audio does not drown out speech.
 
 #### A thankful note by the same persona:
 
@@ -1089,19 +1089,19 @@ For the visual presentation of text, a mechanism is available to achieve the fol
 
 ##### Product Manager Recommendation:
 
-    Provide options for users to customize text appearance.
+Provide options for users to customize text appearance.
 
 ##### UX Recommendation:
 
-    Design with readable fonts, sufficient spacing, and options for customization.
+Design with readable fonts, sufficient spacing, and options for customization.
 
 ##### Developer Recommendation:
 
-    Enable CSS customization for text properties like spacing, font, and color.
+Enable CSS customization for text properties like spacing, font, and color.
 
 ##### QA Recommendation:
 
-    Test different combinations of font, spacing, and color to ensure readability.
+Test different combinations of font, spacing, and color to ensure readability.
 
 #### A thankful note by the same persona:
 
@@ -1139,19 +1139,19 @@ All functionality of the content is operable through a keyboard interface withou
 
 ##### Product Manager Recommendation:
 
-    Ensure all features are accessible via keyboard navigation.
+Ensure all features are accessible via keyboard navigation.
 
 ##### UX Recommendation:
 
-    Design with keyboard shortcuts and focus indicators.
+Design with keyboard shortcuts and focus indicators.
 
 ##### Developer Recommendation:
 
-    Implement robust keyboard navigation and avoid using keyboard traps.
+Implement robust keyboard navigation and avoid using keyboard traps.
 
 ##### QA Recommendation:
 
-    Test extensively for keyboard-only operation across various browsers.
+Test extensively for keyboard-only operation across various browsers.
 
 #### A thankful note by the same persona:
 
@@ -1187,19 +1187,19 @@ Keyboard focus should never get stuck on one element; it should always be possib
 
 ##### Product Manager Recommendation:
 
-    Make sure keyboard users can navigate through all elements easily.
+Make sure keyboard users can navigate through all elements easily.
 
 ##### UX Recommendation:
 
-    Indicate keyboard focus clearly and avoid elements that could trap keyboard navigation.
+Indicate keyboard focus clearly and avoid elements that could trap keyboard navigation.
 
 ##### Developer Recommendation:
 
-    Make sure to provide ways to exit menus or modals via keyboard commands.
+Make sure to provide ways to exit menus or modals via keyboard commands.
 
 ##### QA Recommendation:
 
-    Run comprehensive tests to make sure there are no keyboard traps.
+Run comprehensive tests to make sure there are no keyboard traps.
 
 #### A thankful note by the same persona:
 
@@ -1235,19 +1235,19 @@ All functionality is operable through a keyboard interface.
 
 ##### Product Manager Recommendation:
 
-    Plan for thorough keyboard accessibility across all features and components.
+Plan for thorough keyboard accessibility across all features and components.
 
 ##### UX Recommendation:
 
-    Design a keyboard-friendly interface that considers users who rely solely on the keyboard.
+Design a keyboard-friendly interface that considers users who rely solely on the keyboard.
 
 ##### Developer Recommendation:
 
-    Utilize semantic HTML and ARIA roles to enhance keyboard accessibility.
+Utilize semantic HTML and ARIA roles to enhance keyboard accessibility.
 
 ##### QA Recommendation:
 
-    Test the interface rigorously to ensure 100% keyboard operability.
+Test the interface rigorously to ensure 100% keyboard operability.
 
 #### A thankful note by the same persona:
 
@@ -1283,19 +1283,19 @@ If a keyboard shortcut is implemented using only letter, punctuation, number, or
 
 ##### Product Manager Recommendation:
 
-    Review and minimize the use of keyboard shortcuts that could interfere with system controls or accessibility features.
+Review and minimize the use of keyboard shortcuts that could interfere with system controls or accessibility features.
 
 ##### UX Recommendation:
 
-    Provide customization options for keyboard shortcuts and clearly document them.
+Provide customization options for keyboard shortcuts and clearly document them.
 
 ##### Developer Recommendation:
 
-    Implement keyboard shortcuts that can either be turned off, remapped, or are active only when focused on the component.
+Implement keyboard shortcuts that can either be turned off, remapped, or are active only when focused on the component.
 
 ##### QA Recommendation:
 
-    Test the shortcuts to ensure they do not conflict with existing accessibility features or system controls.
+Test the shortcuts to ensure they do not conflict with existing accessibility features or system controls.
 
 #### A thankful note by the same persona:
 
@@ -1331,19 +1331,19 @@ Users are given adequate time to read and use content, or can turn off, adjust, 
 
 ##### Product Manager Recommendation:
 
-    Plan for timing features that are flexible and adjustable to the user’s needs.
+Plan for timing features that are flexible and adjustable to the user’s needs.
 
 ##### UX Recommendation:
 
-    Design with options to pause, stop, or extend time limits wherever possible.
+Design with options to pause, stop, or extend time limits wherever possible.
 
 ##### Developer Recommendation:
 
-    Implement mechanisms to allow the user to control timing features.
+Implement mechanisms to allow the user to control timing features.
 
 ##### QA Recommendation:
 
-    Test the timing features under various scenarios to ensure they meet accessibility standards.
+Test the timing features under various scenarios to ensure they meet accessibility standards.
 
 #### A thankful note by the same persona:
 
@@ -1379,19 +1379,19 @@ Users can pause, stop, or hide moving, blinking, scrolling, or auto-updating inf
 
 ##### Product Manager Recommendation:
 
-    Evaluate the necessity of moving or auto-updating elements and prioritize user control.
+Evaluate the necessity of moving or auto-updating elements and prioritize user control.
 
 ##### UX Recommendation:
 
-    Include clear and accessible controls for pausing, stopping, or hiding moving content.
+Include clear and accessible controls for pausing, stopping, or hiding moving content.
 
 ##### Developer Recommendation:
 
-    Implement straightforward controls for stopping animations and auto-updating elements.
+Implement straightforward controls for stopping animations and auto-updating elements.
 
 ##### QA Recommendation:
 
-    Ensure that all moving or auto-updating elements can be controlled by the user.
+Ensure that all moving or auto-updating elements can be controlled by the user.
 
 #### A thankful note by the same persona:
 
@@ -1427,19 +1427,19 @@ Timing is not an essential part of the event or activity presented by the conten
 
 ##### Product Manager Recommendation:
 
-    Eliminate time-based actions unless they are absolutely necessary for the functionality or the content.
+Eliminate time-based actions unless they are absolutely necessary for the functionality or the content.
 
 ##### UX Recommendation:
 
-    Design experiences that do not rely on timed interactions for accessibility.
+Design experiences that do not rely on timed interactions for accessibility.
 
 ##### Developer Recommendation:
 
-    Avoid code that requires user input within a specific time frame, unless it's critical for real-time or synchronized media.
+Avoid code that requires user input within a specific time frame, unless it's critical for real-time or synchronized media.
 
 ##### QA Recommendation:
 
-    Check that the website or application does not enforce unnecessary time limits on user actions.
+Check that the website or application does not enforce unnecessary time limits on user actions.
 
 #### A thankful note by the same persona:
 
@@ -1475,19 +1475,19 @@ Interruptions can be postponed or suppressed by the user, except interruptions i
 
 ##### Product Manager Recommendation:
 
-    Minimize or give control over any interruptions like pop-ups, updates, or alerts.
+Minimize or give control over any interruptions like pop-ups, updates, or alerts.
 
 ##### UX Recommendation:
 
-    Design a UI that lets users control or postpone interruptions.
+Design a UI that lets users control or postpone interruptions.
 
 ##### Developer Recommendation:
 
-    Provide settings for users to customize the frequency and type of interruptions.
+Provide settings for users to customize the frequency and type of interruptions.
 
 ##### QA Recommendation:
 
-    Test the ability to postpone or turn off interruptions and make sure emergency alerts are an exception.
+Test the ability to postpone or turn off interruptions and make sure emergency alerts are an exception.
 
 #### A thankful note by the same persona:
 
@@ -1523,19 +1523,19 @@ When an authenticated session expires, the user can continue the activity withou
 
 ##### Product Manager Recommendation:
 
-    Ensure session timeouts provide a seamless way to re-authenticate without data loss.
+Ensure session timeouts provide a seamless way to re-authenticate without data loss.
 
 ##### UX Recommendation:
 
-    Design user-friendly re-authentication processes that retain the user’s previous state.
+Design user-friendly re-authentication processes that retain the user’s previous state.
 
 ##### Developer Recommendation:
 
-    Implement session management that allows for easy re-authentication without loss of data.
+Implement session management that allows for easy re-authentication without loss of data.
 
 ##### QA Recommendation:
 
-    Test to make sure that re-authenticating does not result in the loss of user data or state.
+Test to make sure that re-authenticating does not result in the loss of user data or state.
 
 #### A thankful note by the same persona:
 
@@ -1571,19 +1571,19 @@ Users are warned of the duration of any user inactivity that could cause data lo
 
 ##### Product Manager Recommendation:
 
-    Clearly communicate any timeouts that might result in data loss.
+Clearly communicate any timeouts that might result in data loss.
 
 ##### UX Recommendation:
 
-    Design notifications or alerts to inform users about the session timeout.
+Design notifications or alerts to inform users about the session timeout.
 
 ##### Developer Recommendation:
 
-    Implement mechanisms to warn the user prior to timeouts and preserve data whenever possible.
+Implement mechanisms to warn the user prior to timeouts and preserve data whenever possible.
 
 ##### QA Recommendation:
 
-    Test for session timeout warnings and data preservation across different scenarios.
+Test for session timeout warnings and data preservation across different scenarios.
 
 #### A thankful note by the same persona:
 
@@ -1619,19 +1619,19 @@ Web pages do not contain anything that flashes more than three times in any one-
 
 ##### Product Manager Recommendation:
 
-    Avoid incorporating flashing elements into the product's design.
+Avoid incorporating flashing elements into the product's design.
 
 ##### UX Recommendation:
 
-    Design static, non-flashing user interface elements for a more inclusive experience.
+Design static, non-flashing user interface elements for a more inclusive experience.
 
 ##### Developer Recommendation:
 
-    Ensure that no elements on the page flash more than three times in a one-second period.
+Ensure that no elements on the page flash more than three times in a one-second period.
 
 ##### QA Recommendation:
 
-    Conduct tests to identify and eliminate any flashing elements that exceed the threshold.
+Conduct tests to identify and eliminate any flashing elements that exceed the threshold.
 
 #### A thankful note by the same persona:
 
@@ -1667,19 +1667,19 @@ Web pages do not contain anything that flashes more than three times in any one-
 
 ##### Product Manager Recommendation:
 
-    Double-check to ensure no flashing elements are in the content or design.
+Double-check to ensure no flashing elements are in the content or design.
 
 ##### UX Recommendation:
 
-    Opt for user interface design that excludes any flashing elements whatsoever.
+Opt for user interface design that excludes any flashing elements whatsoever.
 
 ##### Developer Recommendation:
 
-    Code to strictly limit any flashing elements and confirm they meet AAA standards.
+Code to strictly limit any flashing elements and confirm they meet AAA standards.
 
 ##### QA Recommendation:
 
-    Perform rigorous tests to completely rule out any elements that flash more than three times in a one-second period.
+Perform rigorous tests to completely rule out any elements that flash more than three times in a one-second period.
 
 #### A thankful note by the same persona:
 
@@ -1715,19 +1715,19 @@ Motion animation triggered by interaction can be disabled unless the animation i
 
 ##### Product Manager Recommendation:
 
-    Implement a system setting to disable animations for users who are sensitive to motion.
+Implement a system setting to disable animations for users who are sensitive to motion.
 
 ##### UX Recommendation:
 
-    Design interfaces that minimize unnecessary animations and provide options to turn them off.
+Design interfaces that minimize unnecessary animations and provide options to turn them off.
 
 ##### Developer Recommendation:
 
-    Create preferences in the site's settings that allow users to reduce or eliminate motion animation.
+Create preferences in the site's settings that allow users to reduce or eliminate motion animation.
 
 ##### QA Recommendation:
 
-    Test the website with animations turned off to ensure that all content remains accessible and functional.
+Test the website with animations turned off to ensure that all content remains accessible and functional.
 
 #### A thankful note by the same persona:
 
@@ -1763,19 +1763,19 @@ A method is available to bypass blocks of content that are repeated on multiple 
 
 ##### Product Manager Recommendation:
 
-    Implement features that allow users to skip repetitive content.
+Implement features that allow users to skip repetitive content.
 
 ##### UX Recommendation:
 
-    Design "Skip to content" or similar links at the beginning of pages to aid in navigation.
+Design "Skip to content" or similar links at the beginning of pages to aid in navigation.
 
 ##### Developer Recommendation:
 
-    Include mechanisms such as anchor links or skip links to bypass repetitive blocks of content.
+Include mechanisms such as anchor links or skip links to bypass repetitive blocks of content.
 
 ##### QA Recommendation:
 
-    Ensure that the "Skip to content" functionality works as intended across different devices and browsers.
+Ensure that the "Skip to content" functionality works as intended across different devices and browsers.
 
 #### A thankful note by the same persona:
 
@@ -1811,19 +1811,19 @@ Web pages have titles that describe topic or purpose.
 
 ##### Product Manager Recommendation:
 
-    Ensure that every page has a descriptive title that is relevant to its content.
+Ensure that every page has a descriptive title that is relevant to its content.
 
 ##### UX Recommendation:
 
-    Design titles that are clear, concise, and effectively communicate the page’s purpose.
+Design titles that are clear, concise, and effectively communicate the page’s purpose.
 
 ##### Developer Recommendation:
 
-    Properly implement HTML <title> tags for each page, making sure they accurately describe the content.
+Properly implement HTML <title> tags for each page, making sure they accurately describe the content.
 
 ##### QA Recommendation:
 
-    Verify that all pages have descriptive and accurate titles during testing.
+Verify that all pages have descriptive and accurate titles during testing.
 
 #### A thankful note by the same persona:
 
@@ -1859,19 +1859,19 @@ If a web page can be navigated sequentially and the navigation sequences affect 
 
 ##### Product Manager Recommendation:
 
-    Ensure logical navigation and focus order.
+Ensure logical navigation and focus order.
 
 ##### UX Recommendation:
 
-    Design the user interface so that the focus order is consistent and intuitive.
+Design the user interface so that the focus order is consistent and intuitive.
 
 ##### Developer Recommendation:
 
-    Code the focus order to follow logical sequencing and flow.
+Code the focus order to follow logical sequencing and flow.
 
 ##### QA Recommendation:
 
-    Test to ensure focus order makes sense and does not disrupt user experience.
+Test to ensure focus order makes sense and does not disrupt user experience.
 
 #### A thankful note by the same persona:
 
@@ -1907,19 +1907,19 @@ The purpose of each link can be determined from the link text alone or from the 
 
 ##### Product Manager Recommendation:
 
-    Specify guidelines for creating descriptive link text.
+Specify guidelines for creating descriptive link text.
 
 ##### UX Recommendation:
 
-    Design links with text that clearly indicates the link's purpose.
+Design links with text that clearly indicates the link's purpose.
 
 ##### Developer Recommendation:
 
-    Use descriptive and meaningful text for hyperlinks.
+Use descriptive and meaningful text for hyperlinks.
 
 ##### QA Recommendation:
 
-    Check that all links have text which clearly explains their purpose.
+Check that all links have text which clearly explains their purpose.
 
 #### A thankful note by the same persona:
 
@@ -1955,19 +1955,19 @@ More than one way is available to locate a web page within a set of web pages ex
 
 ##### Product Manager Recommendation:
 
-    Incorporate multiple navigation options, such as site maps, search functions, and breadcrumb trails.
+Incorporate multiple navigation options, such as site maps, search functions, and breadcrumb trails.
 
 ##### UX Recommendation:
 
-    Design the interface to offer various pathways to the same information.
+Design the interface to offer various pathways to the same information.
 
 ##### Developer Recommendation:
 
-    Implement multiple navigational mechanisms like site maps, indexes, and search functionalities.
+Implement multiple navigational mechanisms like site maps, indexes, and search functionalities.
 
 ##### QA Recommendation:
 
-    Test to ensure there are multiple, functional ways to navigate to important content.
+Test to ensure there are multiple, functional ways to navigate to important content.
 
 #### A thankful note by the same persona:
 
@@ -2003,19 +2003,19 @@ Headings and labels describe topic or purpose.
 
 ##### Product Manager Recommendation:
 
-    Ensure that all headings and labels are descriptive and relevant.
+Ensure that all headings and labels are descriptive and relevant.
 
 ##### UX Recommendation:
 
-    Use headings and labels to clearly demarcate sections and topics.
+Use headings and labels to clearly demarcate sections and topics.
 
 ##### Developer Recommendation:
 
-    Utilize semantic HTML for headings (<h1>, <h2>, etc.) and labels to facilitate screen reader navigation.
+Utilize semantic HTML for headings (<h1>, <h2>, etc.) and labels to facilitate screen reader navigation.
 
 ##### QA Recommendation:
 
-    Test to ensure all headings and labels are accurate, and properly structured for screen reader navigation.
+Test to ensure all headings and labels are accurate, and properly structured for screen reader navigation.
 
 #### A thankful note by the same persona:
 
@@ -2051,19 +2051,19 @@ Any keyboard operable user interface has a mode of operation where the keyboard 
 
 ##### Product Manager Recommendation:
 
-    Prioritize visibility of keyboard focus throughout the site.
+Prioritize visibility of keyboard focus throughout the site.
 
 ##### UX Recommendation:
 
-    Design distinct focus states that are easily discernible.
+Design distinct focus states that are easily discernible.
 
 ##### Developer Recommendation:
 
-    Implement visible focus indicators using CSS and other web technologies.
+Implement visible focus indicators using CSS and other web technologies.
 
 ##### QA Recommendation:
 
-    Check to make sure that focus indicators are visible in all states and components.
+Check to make sure that focus indicators are visible in all states and components.
 
 #### A thankful note by the same persona:
 
@@ -2099,19 +2099,19 @@ Information about the user's location within a set of web pages is available.
 
 ##### Product Manager Recommendation:
 
-    Include features like breadcrumb trails or highlighted menu items to indicate location.
+Include features like breadcrumb trails or highlighted menu items to indicate location.
 
 ##### UX Recommendation:
 
-    Design interface elements that give users a sense of their location within the site.
+Design interface elements that give users a sense of their location within the site.
 
 ##### Developer Recommendation:
 
-    Incorporate breadcrumbs, highlight active menu items, or use other methods to indicate user location.
+Incorporate breadcrumbs, highlight active menu items, or use other methods to indicate user location.
 
 ##### QA Recommendation:
 
-    Ensure that location indicators function properly and are easily understandable.
+Ensure that location indicators function properly and are easily understandable.
 
 #### A thankful note by the same persona:
 
@@ -2147,19 +2147,19 @@ A mechanism is available to allow the purpose of each link to be identified from
 
 ##### Product Manager Recommendation:
 
-    Set clear guidelines for unambiguous link text.
+Set clear guidelines for unambiguous link text.
 
 ##### UX Recommendation:
 
-    Use descriptive and straightforward language for link text.
+Use descriptive and straightforward language for link text.
 
 ##### Developer Recommendation:
 
-    Adopt semantic HTML and ARIA roles to clarify link purpose.
+Adopt semantic HTML and ARIA roles to clarify link purpose.
 
 ##### QA Recommendation:
 
-    Ensure each link's text or accompanying context makes its purpose clear.
+Ensure each link's text or accompanying context makes its purpose clear.
 
 #### A thankful note by the same persona:
 
@@ -2195,19 +2195,19 @@ Section headings are used to organize the content.
 
 ##### Product Manager Recommendation:
 
-    Ensure content is well-organized with clear and descriptive section headings.
+Ensure content is well-organized with clear and descriptive section headings.
 
 ##### UX Recommendation:
 
-    Design section headings that summarize the content effectively.
+Design section headings that summarize the content effectively.
 
 ##### Developer Recommendation:
 
-    Use semantic HTML tags like <h1>, <h2>, etc., to indicate section headings.
+Use semantic HTML tags like <h1>, <h2>, etc., to indicate section headings.
 
 ##### QA Recommendation:
 
-    Verify that section headings are implemented and accessible through screen readers.
+Verify that section headings are implemented and accessible through screen readers.
 
 #### A thankful note by the same persona:
 
@@ -2243,19 +2243,19 @@ Ensures that when a user interface component receives keyboard focus, it is not 
 
 ##### Product Manager Recommendation:
 
-    **Design interfaces to prevent essential elements from being obscured when they receive focus.
+\*\*Design interfaces to prevent essential elements from being obscured when they receive focus.
 
 ##### UX Recommendation:
 
-    **Consider the placement and visibility of interactive elements to ensure they remain visible when focused.
+\*\*Consider the placement and visibility of interactive elements to ensure they remain visible when focused.
 
 ##### Developer Recommendation:
 
-    **Implement UI designs where focused elements are not hidden by overlays or other content.
+\*\*Implement UI designs where focused elements are not hidden by overlays or other content.
 
 ##### QA Recommendation:
 
-    **Test with keyboard navigation to ensure that focused elements are always at least partially visible.
+\*\*Test with keyboard navigation to ensure that focused elements are always at least partially visible.
 
 #### A thankful note by the same persona:
 
@@ -2291,19 +2291,19 @@ When a user interface component receives keyboard focus, no part of it is obscur
 
 ##### Product Manager Recommendation:
 
-    **Aim for the highest level of clarity by ensuring that no focused component is partially or fully obscured.
+\*\*Aim for the highest level of clarity by ensuring that no focused component is partially or fully obscured.
 
 ##### UX Recommendation:
 
-    **Design the user experience to keep the focus area completely unobscured, regardless of the site's dynamic content or overlays.
+\*\*Design the user experience to keep the focus area completely unobscured, regardless of the site's dynamic content or overlays.
 
 ##### Developer Recommendation:
 
-    **Develop web pages so that focused elements are always fully visible and not covered by any author-created content.
+\*\*Develop web pages so that focused elements are always fully visible and not covered by any author-created content.
 
 ##### QA Recommendation:
 
-    **Conduct thorough accessibility testing to ensure that when elements receive focus, they are entirely visible.
+\*\*Conduct thorough accessibility testing to ensure that when elements receive focus, they are entirely visible.
 
 #### A thankful note by the same persona:
 
@@ -2339,19 +2339,19 @@ When the keyboard focus indicator is visible, it has a high contrast ratio and c
 
 ##### Product Manager Recommendation:
 
-    **Ensure that the focus indicator is prominent and easy to distinguish when elements are selected.
+\*\*Ensure that the focus indicator is prominent and easy to distinguish when elements are selected.
 
 ##### UX Recommendation:
 
-    **Design focus indicators that are large and have a high contrast ratio to be easily noticed.
+\*\*Design focus indicators that are large and have a high contrast ratio to be easily noticed.
 
 ##### Developer Recommendation:
 
-    **Implement focus styles that exceed the minimum contrast ratio and cover an area at least as large as a 2 CSS pixel thick perimeter of the unfocused component.
+\*\*Implement focus styles that exceed the minimum contrast ratio and cover an area at least as large as a 2 CSS pixel thick perimeter of the unfocused component.
 
 ##### QA Recommendation:
 
-    **Test the focus indicator under various conditions to ensure it remains visible and distinct from its unfocused state.
+\*\*Test the focus indicator under various conditions to ensure it remains visible and distinct from its unfocused state.
 
 #### A thankful note by the same persona:
 
@@ -2389,19 +2389,19 @@ The default human language of each web page can be programmatically determined.
 
 ##### Product Manager Recommendation:
 
-    Specify the default language of the site in the project requirements.
+Specify the default language of the site in the project requirements.
 
 ##### UX Recommendation:
 
-    Ensure UI text adheres to the specified language and locale settings.
+Ensure UI text adheres to the specified language and locale settings.
 
 ##### Developer Recommendation:
 
-    Set the lang attribute on the HTML element to indicate the default language.
+Set the lang attribute on the HTML element to indicate the default language.
 
 ##### QA Recommendation:
 
-    Test that the default language is programmatically determinable and matches user expectations.
+Test that the default language is programmatically determinable and matches user expectations.
 
 #### A thankful note by the same persona:
 
@@ -2437,19 +2437,19 @@ The human language of each passage or phrase in the content can be programmatica
 
 ##### Product Manager Recommendation:
 
-    Indicate requirements for multi-language support if needed.
+Indicate requirements for multi-language support if needed.
 
 ##### UX Recommendation:
 
-    Design the UI to be consistent in language, or clearly indicate language switches.
+Design the UI to be consistent in language, or clearly indicate language switches.
 
 ##### Developer Recommendation:
 
-    Use the lang attribute to mark up sections of text that are in a different language.
+Use the lang attribute to mark up sections of text that are in a different language.
 
 ##### QA Recommendation:
 
-    Test that language changes within content are accurately marked and detectable.
+Test that language changes within content are accurately marked and detectable.
 
 #### A thankful note by the same persona:
 
@@ -2485,19 +2485,19 @@ A mechanism is available for identifying specific definitions of words or phrase
 
 ##### Product Manager Recommendation:
 
-    Include a glossary or tooltips for unusual or technical terms.
+Include a glossary or tooltips for unusual or technical terms.
 
 ##### UX Recommendation:
 
-    Design easily accessible ways to get definitions, such as hover tooltips or links to a glossary.
+Design easily accessible ways to get definitions, such as hover tooltips or links to a glossary.
 
 ##### Developer Recommendation:
 
-    Implement tooltips or hyperlinks for words that are unusual or used in a restricted manner.
+Implement tooltips or hyperlinks for words that are unusual or used in a restricted manner.
 
 ##### QA Recommendation:
 
-    Verify that all unusual or technical terms have definitions or explanations that are easily accessible.
+Verify that all unusual or technical terms have definitions or explanations that are easily accessible.
 
 #### A thankful note by the same persona:
 
@@ -2533,19 +2533,19 @@ A mechanism for identifying the expanded form or meaning of abbreviations is pro
 
 ##### Product Manager Recommendation:
 
-    Define abbreviations the first time they appear on a page or provide a reference.
+Define abbreviations the first time they appear on a page or provide a reference.
 
 ##### UX Recommendation:
 
-    Use tooltips or inline explanations for abbreviations.
+Use tooltips or inline explanations for abbreviations.
 
 ##### Developer Recommendation:
 
-    Implement <abbr> tags and tooltips to explain abbreviations.
+Implement <abbr> tags and tooltips to explain abbreviations.
 
 ##### QA Recommendation:
 
-    Ensure that all abbreviations have tooltips or explanations.
+Ensure that all abbreviations have tooltips or explanations.
 
 #### A thankful note by the same persona:
 
@@ -2581,19 +2581,19 @@ When text requires reading ability more advanced than the lower secondary educat
 
 ##### Product Manager Recommendation:
 
-    Provide alternative versions or supplemental content for advanced text.
+Provide alternative versions or supplemental content for advanced text.
 
 ##### UX Recommendation:
 
-    Include simpler explanations or offer a 'plain language' option for complex content.
+Include simpler explanations or offer a 'plain language' option for complex content.
 
 ##### Developer Recommendation:
 
-    Implement mechanisms like a toggle button for switching between advanced and simpler text.
+Implement mechanisms like a toggle button for switching between advanced and simpler text.
 
 ##### QA Recommendation:
 
-    Check that alternative versions or supplementary content are functional and easily accessible.
+Check that alternative versions or supplementary content are functional and easily accessible.
 
 #### A thankful note by the same persona:
 
@@ -2629,19 +2629,19 @@ A mechanism is provided for identifying the pronunciation of words where meaning
 
 ##### Product Manager Recommendation:
 
-    Include pronunciation guides for complex or ambiguous words.
+Include pronunciation guides for complex or ambiguous words.
 
 ##### UX Recommendation:
 
-    Design tooltips or inline text with phonetic spelling for difficult words.
+Design tooltips or inline text with phonetic spelling for difficult words.
 
 ##### Developer Recommendation:
 
-    Utilize tooltips or specific HTML tags to provide pronunciation guides.
+Utilize tooltips or specific HTML tags to provide pronunciation guides.
 
 ##### QA Recommendation:
 
-    Confirm that pronunciation guides are available and functional for ambiguous terms.
+Confirm that pronunciation guides are available and functional for ambiguous terms.
 
 #### A thankful note by the same persona:
 
@@ -2677,19 +2677,19 @@ When any component receives focus, it does not initiate a change of context.
 
 ##### Product Manager Recommendation:
 
-    Avoid actions that would disorient the user when they focus on elements.
+Avoid actions that would disorient the user when they focus on elements.
 
 ##### UX Recommendation:
 
-    Design interfaces that don't change context when a user simply focuses on a component.
+Design interfaces that don't change context when a user simply focuses on a component.
 
 ##### Developer Recommendation:
 
-    Make sure no scripts change the context when elements receive focus.
+Make sure no scripts change the context when elements receive focus.
 
 ##### QA Recommendation:
 
-    Test navigation through keyboard focus to ensure it doesn't disrupt the user experience.
+Test navigation through keyboard focus to ensure it doesn't disrupt the user experience.
 
 #### A thankful note by the same persona:
 
@@ -2725,19 +2725,19 @@ Changing the setting of any user interface component does not automatically caus
 
 ##### Product Manager Recommendation:
 
-    Inform users about any context changes resulting from their actions.
+Inform users about any context changes resulting from their actions.
 
 ##### UX Recommendation:
 
-    Include clear indications or warnings if input will lead to changes in context.
+Include clear indications or warnings if input will lead to changes in context.
 
 ##### Developer Recommendation:
 
-    Implement alerts or tooltips to warn users about impending context changes due to input.
+Implement alerts or tooltips to warn users about impending context changes due to input.
 
 ##### QA Recommendation:
 
-    Test to ensure that context changes upon input are clearly communicated.
+Test to ensure that context changes upon input are clearly communicated.
 
 #### A thankful note by the same persona:
 
@@ -2773,19 +2773,19 @@ Navigational mechanisms that are repeated on multiple web pages within a set of 
 
 ##### Product Manager Recommendation:
 
-    Ensure a consistent navigational structure across the website.
+Ensure a consistent navigational structure across the website.
 
 ##### UX Recommendation:
 
-    Design navigation elements to appear in the same relative order on all pages.
+Design navigation elements to appear in the same relative order on all pages.
 
 ##### Developer Recommendation:
 
-    Use a consistent template for the navigational elements.
+Use a consistent template for the navigational elements.
 
 ##### QA Recommendation:
 
-    Verify that the navigation is consistent across different pages and sections.
+Verify that the navigation is consistent across different pages and sections.
 
 #### A thankful note by the same persona:
 
@@ -2821,19 +2821,19 @@ Components that have the same functionality within a set of web pages are identi
 
 ##### Product Manager Recommendation:
 
-    Adopt a uniform naming convention for similar functionalities.
+Adopt a uniform naming convention for similar functionalities.
 
 ##### UX Recommendation:
 
-    Use consistent icons and labels for the same actions across the site.
+Use consistent icons and labels for the same actions across the site.
 
 ##### Developer Recommendation:
 
-    Implement a style guide to keep naming and actions consistent.
+Implement a style guide to keep naming and actions consistent.
 
 ##### QA Recommendation:
 
-    Test to ensure that similar actions are consistently identified across the site.
+Test to ensure that similar actions are consistently identified across the site.
 
 #### A thankful note by the same persona:
 
@@ -2869,19 +2869,19 @@ Changes in context are only made upon the user's request, preventing disorientat
 
 ##### Product Manager Recommendation:
 
-    **Design functionality that requires explicit user action to initiate any change in context.
+\*\*Design functionality that requires explicit user action to initiate any change in context.
 
 ##### UX Recommendation:
 
-    **Ensure that user interfaces are designed to minimize unexpected changes, providing controls for users to initiate changes.
+\*\*Ensure that user interfaces are designed to minimize unexpected changes, providing controls for users to initiate changes.
 
 ##### Developer Recommendation:
 
-    **Implement mechanisms that prevent automatic context changes unless initiated by the user.
+\*\*Implement mechanisms that prevent automatic context changes unless initiated by the user.
 
 ##### QA Recommendation:
 
-    **Test to ensure that context changes do not occur without user initiation or clear options to disable such changes.
+\*\*Test to ensure that context changes do not occur without user initiation or clear options to disable such changes.
 
 #### A thankful note by the same persona:
 
@@ -2917,19 +2917,19 @@ When web pages within a set provide help mechanisms, such as contact information
 
 ##### Product Manager Recommendation:
 
-    **Standardize the placement and presentation of help mechanisms across the platform.
+\*\*Standardize the placement and presentation of help mechanisms across the platform.
 
 ##### UX Recommendation:
 
-    **Design the layout so that help options are consistently located and accessible across different pages.
+\*\*Design the layout so that help options are consistently located and accessible across different pages.
 
 ##### Developer Recommendation:
 
-    **Structure the HTML to maintain a consistent order for help mechanisms within the site's navigation or footer.
+\*\*Structure the HTML to maintain a consistent order for help mechanisms within the site's navigation or footer.
 
 ##### QA Recommendation:
 
-    **Verify that help mechanisms appear in a consistent location and order across the website, enhancing predictability for users.
+\*\*Verify that help mechanisms appear in a consistent location and order across the website, enhancing predictability for users.
 
 #### A thankful note by the same persona:
 
@@ -2965,19 +2965,19 @@ Automatically detected input errors are identified and described to the user in 
 
 ##### Product Manager Recommendation:
 
-    **Implement clear error identification mechanisms for all forms and inputs.
+\*\*Implement clear error identification mechanisms for all forms and inputs.
 
 ##### UX Recommendation:
 
-    **Design error messages that are specific about what the error is and where it occurred.
+\*\*Design error messages that are specific about what the error is and where it occurred.
 
 ##### Developer Recommendation:
 
-    **Code forms to automatically detect and describe errors in text near the input field.
+\*\*Code forms to automatically detect and describe errors in text near the input field.
 
 ##### QA Recommendation:
 
-    **Test to ensure that error messages are clear, descriptive, and accessible.
+\*\*Test to ensure that error messages are clear, descriptive, and accessible.
 
 #### A thankful note by the same persona:
 
@@ -3013,19 +3013,19 @@ Labels or instructions are provided for content that requires user input.
 
 ##### Product Manager Recommendation:
 
-    **Ensure all input fields have associated labels and instructions.
+\*\*Ensure all input fields have associated labels and instructions.
 
 ##### UX Recommendation:
 
-    **Design forms with clear, concise labels and instructions for each field.
+\*\*Design forms with clear, concise labels and instructions for each field.
 
 ##### Developer Recommendation:
 
-    **Use proper HTML elements (<label>, aria-label, or aria-labelledby) to associate text labels with form controls.
+\*\*Use proper HTML elements (<label>, aria-label, or aria-labelledby) to associate text labels with form controls.
 
 ##### QA Recommendation:
 
-    **Verify labels and instructions are correctly implemented and accessible.
+\*\*Verify labels and instructions are correctly implemented and accessible.
 
 #### A thankful note by the same persona:
 
@@ -3061,19 +3061,19 @@ If an input error is automatically detected and suggestions for correction are k
 
 ##### Product Manager Recommendation:
 
-    **Incorporate error correction suggestions within the error identification process.
+\*\*Incorporate error correction suggestions within the error identification process.
 
 ##### UX Recommendation:
 
-    **Design intuitive and helpful error suggestions that guide users to correct mistakes.
+\*\*Design intuitive and helpful error suggestions that guide users to correct mistakes.
 
 ##### Developer Recommendation:
 
-    **Develop functionality to provide actionable suggestions when common errors are detected.
+\*\*Develop functionality to provide actionable suggestions when common errors are detected.
 
 ##### QA Recommendation:
 
-    **Test to ensure error suggestions are helpful, accurate, and do not compromise security.
+\*\*Test to ensure error suggestions are helpful, accurate, and do not compromise security.
 
 #### A thankful note by the same persona:
 
@@ -3109,19 +3109,19 @@ For web pages that cause legal commitments or financial transactions for the use
 
 ##### Product Manager Recommendation:
 
-    **Incorporate review, confirmation, and correction steps before finalizing sensitive transactions.
+\*\*Incorporate review, confirmation, and correction steps before finalizing sensitive transactions.
 
 ##### UX Recommendation:
 
-    **Design clear review pages that summarize user actions and decisions before final confirmation.
+\*\*Design clear review pages that summarize user actions and decisions before final confirmation.
 
 ##### Developer Recommendation:
 
-    **Implement mechanisms for reviewing, confirming, and correcting information prior to submission.
+\*\*Implement mechanisms for reviewing, confirming, and correcting information prior to submission.
 
 ##### QA Recommendation:
 
-    **Test the process to ensure users can easily review, correct, and confirm actions without confusion.
+\*\*Test the process to ensure users can easily review, correct, and confirm actions without confusion.
 
 #### A thankful note by the same persona:
 
@@ -3157,19 +3157,19 @@ Context-sensitive help is available for users who need assistance while navigati
 
 ##### Product Manager Recommendation:
 
-    **Ensure context-sensitive help is readily available across the platform.
+\*\*Ensure context-sensitive help is readily available across the platform.
 
 ##### UX Recommendation:
 
-    **Design an intuitive help system that users can easily access without disrupting their workflow.
+\*\*Design an intuitive help system that users can easily access without disrupting their workflow.
 
 ##### Developer Recommendation:
 
-    **Implement a help feature that provides relevant, context-sensitive assistance.
+\*\*Implement a help feature that provides relevant, context-sensitive assistance.
 
 ##### QA Recommendation:
 
-    **Test the help feature for accessibility, ensuring it provides valuable support for users' needs.
+\*\*Test the help feature for accessibility, ensuring it provides valuable support for users' needs.
 
 #### A thankful note by the same persona:
 
@@ -3205,19 +3205,19 @@ For web pages that require users to submit information, submissions are reversib
 
 ##### Product Manager Recommendation:
 
-    **Design all information submission processes to be foolproof with safeguards against errors.
+\*\*Design all information submission processes to be foolproof with safeguards against errors.
 
 ##### UX Recommendation:
 
-    **Create an engaging user experience that includes easy ways to reverse actions, check for and correct errors.
+\*\*Create an engaging user experience that includes easy ways to reverse actions, check for and correct errors.
 
 ##### Developer Recommendation:
 
-    **Build functionalities that allow users to review, correct, and confirm their information before submission.
+\*\*Build functionalities that allow users to review, correct, and confirm their information before submission.
 
 ##### QA Recommendation:
 
-    **Ensure thorough testing of the submission process to verify error prevention measures are effective.
+\*\*Ensure thorough testing of the submission process to verify error prevention measures are effective.
 
 #### A thankful note by the same persona:
 
@@ -3253,19 +3253,19 @@ Information previously entered by or provided to the user is auto-populated if r
 
 ##### Product Manager Recommendation:
 
-    **Minimize the need for users to re-enter information they've already provided.
+\*\*Minimize the need for users to re-enter information they've already provided.
 
 ##### UX Recommendation:
 
-    **Design forms and interfaces that leverage auto-population for previously entered information.
+\*\*Design forms and interfaces that leverage auto-population for previously entered information.
 
 ##### Developer Recommendation:
 
-    **Implement auto-population of fields based on previously entered information.
+\*\*Implement auto-population of fields based on previously entered information.
 
 ##### QA Recommendation:
 
-    **Test to ensure that information is correctly auto-populated, reducing the need for redundant entry.
+\*\*Test to ensure that information is correctly auto-populated, reducing the need for redundant entry.
 
 #### A thankful note by the same persona:
 
@@ -3301,19 +3301,19 @@ For any step in an authentication process, alternatives are provided that do not
 
 ##### Product Manager Recommendation:
 
-    **Explore and implement authentication methods that minimize cognitive load, such as biometric or device-based authentication.
+\*\*Explore and implement authentication methods that minimize cognitive load, such as biometric or device-based authentication.
 
 ##### UX Recommendation:
 
-    **Design authentication processes that are intuitive and provide alternatives to traditional memory-based passwords.
+\*\*Design authentication processes that are intuitive and provide alternatives to traditional memory-based passwords.
 
 ##### Developer Recommendation:
 
-    **Integrate authentication alternatives that accommodate users with cognitive impairments, ensuring security without reliance on memory tests.
+\*\*Integrate authentication alternatives that accommodate users with cognitive impairments, ensuring security without reliance on memory tests.
 
 ##### QA Recommendation:
 
-    **Test authentication processes to ensure they are accessible to users with various cognitive abilities, focusing on ease of use and security.
+\*\*Test authentication processes to ensure they are accessible to users with various cognitive abilities, focusing on ease of use and security.
 
 #### A thankful note by the same persona:
 
@@ -3349,19 +3349,19 @@ Authentication processes offer methods that do not require cognitive function te
 
 ##### Product Manager Recommendation:
 
-    **Prioritize the development of enhanced authentication methods that cater to a wide range of cognitive abilities.
+\*\*Prioritize the development of enhanced authentication methods that cater to a wide range of cognitive abilities.
 
 ##### UX Recommendation:
 
-    **Create a seamless authentication experience that supports users with cognitive impairments, using clear instructions and alternative access methods.
+\*\*Create a seamless authentication experience that supports users with cognitive impairments, using clear instructions and alternative access methods.
 
 ##### Developer Recommendation:
 
-    **Develop and implement support mechanisms within authentication processes, such as object recognition or the use of personal content, to assist users.
+\*\*Develop and implement support mechanisms within authentication processes, such as object recognition or the use of personal content, to assist users.
 
 ##### QA Recommendation:
 
-    **Conduct comprehensive testing to validate that the authentication process is accessible, focusing on users with cognitive impairments and ensuring the process is easy and secure.
+\*\*Conduct comprehensive testing to validate that the authentication process is accessible, focusing on users with cognitive impairments and ensuring the process is easy and secure.
 
 #### A thankful note by the same persona:
 
@@ -3399,19 +3399,19 @@ In content implemented using markup languages, elements have complete start and 
 
 ##### Product Manager Recommendation:
 
-    Prioritize clean and well-structured code for better compatibility with assistive technologies.
+Prioritize clean and well-structured code for better compatibility with assistive technologies.
 
 ##### UX Recommendation:
 
-    Ensure designs can be implemented using semantic HTML and proper nesting.
+Ensure designs can be implemented using semantic HTML and proper nesting.
 
 ##### Developer Recommendation:
 
-    Adhere to HTML best practices, ensuring complete start and end tags, unique IDs, and no duplicate attributes.
+Adhere to HTML best practices, ensuring complete start and end tags, unique IDs, and no duplicate attributes.
 
 ##### QA Recommendation:
 
-    Automate tests to scan for HTML errors and correct them before deployment.
+Automate tests to scan for HTML errors and correct them before deployment.
 
 #### A thankful note by the same persona:
 
@@ -3447,19 +3447,19 @@ For all user interface components, the name, role, and value can be programmatic
 
 ##### Product Manager Recommendation:
 
-    Ensure that all UI elements are labeled in a way that makes their purpose clear.
+Ensure that all UI elements are labeled in a way that makes their purpose clear.
 
 ##### UX Recommendation:
 
-    Design buttons and other UI components with clear labels and roles.
+Design buttons and other UI components with clear labels and roles.
 
 ##### Developer Recommendation:
 
-    Implement ARIA roles and proper tagging for interactive elements.
+Implement ARIA roles and proper tagging for interactive elements.
 
 ##### QA Recommendation:
 
-    Test the website with screen readers and other assistive technologies to ensure all elements are properly labeled.
+Test the website with screen readers and other assistive technologies to ensure all elements are properly labeled.
 
 #### A thankful note by the same persona:
 
@@ -3495,20 +3495,21 @@ In content implemented using markup languages, status messages can be programmat
 
 ##### Product Manager Recommendation:
 
-    Incorporate clear status messages for actions taken on the website.
+Incorporate clear status messages for actions taken on the website.
 
 ##### UX Recommendation:
 
-    Design non-intrusive but clear status messages that do not require user interaction to disappear.
+Design non-intrusive but clear status messages that do not require user interaction to disappear.
 
 ##### Developer Recommendation:
 
-    Use ARIA roles to make status messages accessible to assistive technologies.
+Use ARIA roles to make status messages accessible to assistive technologies.
 
 ##### QA Recommendation:
 
-    Test the accessibility and clarity of status messages with screen readers and other assistive devices.
+Test the accessibility and clarity of status messages with screen readers and other assistive devices.
 
 #### A thankful note by the same persona:
 
 "Now I know what's happening instead of sitting here guessing. You've made my life easier!"
+
