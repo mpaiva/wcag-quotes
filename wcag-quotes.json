@@ -2,7 +2,7 @@
   {
     "id": "1.1.1",
     "title": "Non-text Content",
-    "level": "Level A",
+    "level": "A",
     "quote": "A picture may be worth a thousand words, but for me, it's worth zero if you don't describe it!",
     "category": "Perceivable",
     "subCategory": "Text Alternatives",
@@ -20,7 +20,7 @@
   {
     "id": "1.2.1",
     "title": "Audio-only and Video-only (Pre-recorded)",
-    "level": "Level A",
+    "level": "A",
     "quote": "What's happening in the video? Don't leave me hanging!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -38,7 +38,7 @@
   {
     "id": "1.2.2",
     "title": "Captions (Prerecorded)",
-    "level": "Level A",
+    "level": "A",
     "quote": "Finally, a cooking video where I can read the recipe, not just watch it!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -56,7 +56,7 @@
   {
     "id": "1.2.3",
     "title": "Audio Description or Media Alternative (Prerecorded)",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "No more guessing games with silent films; narrate the story, and I'm all ears!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -74,7 +74,7 @@
   {
     "id": "1.2.4",
     "title": "Audio Description or Media Alternative (Prerecorded)",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "So you're saying there was an epic car chase, and I missed it? Unbelievable!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -92,7 +92,7 @@
   {
     "id": "1.2.5",
     "title": "Audio Description (Prerecorded)",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "I don't just want to hear the movie; I want to see it with my ears!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -110,7 +110,7 @@
   {
     "id": "1.2.6",
     "title": "Sign Language (Prerecorded)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Now that's what I call a conversation—your hands do the talking and I'm all eyes!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -128,7 +128,7 @@
   {
     "id": "1.2.7",
     "title": "Extended Audio Description (Prerecorded)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Your movie's got more gaps than my granny's teeth—fill 'em in with audio description, please!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -146,7 +146,7 @@
   {
     "id": "1.2.8",
     "title": "Media Alternative (Prerecorded)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Don't just show me the action, tell me the story. A text alternative lets me follow along my way!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -164,7 +164,7 @@
   {
     "id": "1.2.9",
     "title": "Audio-only (Live)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "If I can't see the event, I can still hear the excitement. Live audio feeds keep me in the loop!",
     "category": "Perceivable",
     "subCategory": "Time-based Media",
@@ -182,7 +182,7 @@
   {
     "id": "1.3.1",
     "title": "Info and Relationships",
-    "level": "Level A",
+    "level": "A",
     "quote": "So this button does...what exactly? Is it a mystery box?",
     "category": "Perceivable",
     "subCategory": "Adaptable",
@@ -200,7 +200,7 @@
   {
     "id": "1.3.2",
     "title": "Meaningful Sequence",
-    "level": "Level A",
+    "level": "A",
     "quote": "Wait, I'm supposed to click on what first? It's like reading a book backwards!",
     "category": "Perceivable",
     "subCategory": "Adaptable",
@@ -218,7 +218,7 @@
   {
     "id": "1.3.3",
     "title": "Sensory Characteristics",
-    "level": "Level A",
+    "level": "A",
     "quote": "So I should 'Click the round, red button.' Great, but what if I can't see 'round' or 'red'?",
     "category": "Perceivable",
     "subCategory": "Adaptable",
@@ -236,7 +236,7 @@
   {
     "id": "1.3.4",
     "title": "Orientation",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Hey, I didn't tilt the world, so why are you forcing me to tilt my screen?",
     "category": "Perceivable",
     "subCategory": "Adaptable",
@@ -254,7 +254,7 @@
   {
     "id": "1.3.5",
     "title": "Identify Input Purpose",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "I love surprises, but not when filling out forms. Tell me what you want already!",
     "category": "Perceivable",
     "subCategory": "Adaptable",
@@ -272,7 +272,7 @@
   {
     "id": "1.4.1",
     "title": "Use of Color",
-    "level": "Level A",
+    "level": "A",
     "quote": "Red means go, green means stop! Wait, that's not right, is it?",
     "category": "Perceivable",
     "subCategory": "Distinguishable",
@@ -290,7 +290,7 @@
   {
     "id": "1.4.2",
     "title": "Audio Control",
-    "level": "Level A",
+    "level": "A",
     "quote": "Yikes! The video started blasting! I nearly dropped my coffee!",
     "category": "Perceivable",
     "subCategory": "Distinguishable",
@@ -308,7 +308,7 @@
   {
     "id": "1.4.3",
     "title": "Contrast (Minimum)",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Is that text or a chameleon? I can't tell because it's blending into the background!",
     "category": "Perceivable",
     "subCategory": "Distinguishable",
@@ -326,7 +326,7 @@
   {
     "id": "1.4.4",
     "title": "Resize Text",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Why do I feel like I need a microscope to read this text?",
     "category": "Perceivable",
     "subCategory": "Distinguishable",
@@ -344,7 +344,7 @@
   {
     "id": "1.4.5",
     "title": "Images of Text",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Is that a logo or a ransom note? Text in images are a no-go for me!",
     "category": "Perceivable",
     "subCategory": "Distinguishable",
@@ -362,7 +362,7 @@
   {
     "id": "1.4.6",
     "title": "Contrast (Enhanced)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Wow, the contrast here is so good, it's like the text is leaping off the screen!",
     "category": "Perceivable",
     "subCategory": "Distinguishable",
@@ -380,7 +380,7 @@
   {
     "id": "1.4.7",
     "title": "Low or No Background Audio",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "If I wanted to listen to a rock concert while reading, I'd buy tickets!",
     "category": "Perceivable",
     "subCategory": "Distinguishable",
@@ -398,7 +398,7 @@
   {
     "id": "1.4.8",
     "title": "Visual Presentation",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "I asked for readable text, not a jigsaw puzzle of fonts and spacing!",
     "category": "Perceivable",
     "subCategory": "Distinguishable",
@@ -416,7 +416,7 @@
   {
     "id": "2.1.1",
     "title": "Keyboard",
-    "level": "Level A",
+    "level": "A",
     "quote": "Mouse? Who needs a mouse when you've got keyboard kung fu skills?",
     "category": "Operable",
     "subCategory": "Keyboard Accessible",
@@ -434,7 +434,7 @@
   {
     "id": "2.1.2",
     "title": "No Keyboard Trap",
-    "level": "Level A",
+    "level": "A",
     "quote": "It's like I was stuck in a digital maze, and you handed me the escape key!",
     "category": "Operable",
     "subCategory": "Keyboard Accessible",
@@ -452,7 +452,7 @@
   {
     "id": "2.1.3",
     "title": "Keyboard (No Exception)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "With your keyboard navigation, I'm feeling like a concert pianist but for web browsing!",
     "category": "Operable",
     "subCategory": "Keyboard Accessible",
@@ -470,7 +470,7 @@
   {
     "id": "2.1.4",
     "title": "Character Key Shortcuts",
-    "level": "Level A",
+    "level": "A",
     "quote": "I accidentally launched the rockets when I was just trying to check my email! Maybe ease up on those shortcuts, eh?",
     "category": "Operable",
     "subCategory": "Keyboard Accessible",
@@ -488,7 +488,7 @@
   {
     "id": "2.2.1",
     "title": "Timing Adjustable",
-    "level": "Level A",
+    "level": "A",
     "quote": "I might be slow, but that doesn't mean I'm not thorough. Stop rushing me!",
     "category": "Operable",
     "subCategory": "Enough Time",
@@ -506,7 +506,7 @@
   {
     "id": "2.2.2",
     "title": "Pause, Stop, Hide",
-    "level": "Level A",
+    "level": "A",
     "quote": "I don't need dancing pop-ups and blinking ads. My life's already a circus!",
     "category": "Operable",
     "subCategory": "Enough Time",
@@ -524,7 +524,7 @@
   {
     "id": "2.2.3",
     "title": "No Timing",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "The Internet's already a race; don't make it a timed obstacle course too!",
     "category": "Operable",
     "subCategory": "Enough Time",
@@ -542,7 +542,7 @@
   {
     "id": "2.2.4",
     "title": "Interruptions",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "If I wanted constant interruptions, I'd go back to working in an open office!",
     "category": "Operable",
     "subCategory": "Enough Time",
@@ -560,7 +560,7 @@
   {
     "id": "2.2.5",
     "title": "Re-authenticating",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "If you log me out every 5 minutes, I swear I'll start writing my passwords on sticky notes!",
     "category": "Operable",
     "subCategory": "Enough Time",
@@ -578,7 +578,7 @@
   {
     "id": "2.2.6",
     "title": "Timeouts",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "I stepped away for a coffee and came back to a locked vault. Let me know if you're timing me out!",
     "category": "Operable",
     "subCategory": "Enough Time",
@@ -596,7 +596,7 @@
   {
     "id": "2.3.1",
     "title": "Three Flashes or Below Threshold",
-    "level": "Level A",
+    "level": "A",
     "quote": "Wow, that flashing ad is like a rave party for my eyes. Can we not?",
     "category": "Operable",
     "subCategory": "Seizures and Physical Reactions",
@@ -614,7 +614,7 @@
   {
     "id": "2.3.2",
     "title": "Three Flashes",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Seriously, I'm here for information, not a light show!",
     "category": "Operable",
     "subCategory": "Seizures and Physical Reactions",
@@ -632,7 +632,7 @@
   {
     "id": "2.3.3",
     "title": "Animation from Interactions",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Animations pop up like whack-a-moles with every click—give me a break, or at least a 'no animation' mode!",
     "category": "Operable",
     "subCategory": "Seizures and Physical Reactions",
@@ -650,7 +650,7 @@
   {
     "id": "2.4.1",
     "title": "Bypass Blocks",
-    "level": "Level A",
+    "level": "A",
     "quote": "Skip to content? Yes, please! I didn't come here for a scenic tour of your navigation.",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -668,7 +668,7 @@
   {
     "id": "2.4.2",
     "title": "Page Titled",
-    "level": "Level A",
+    "level": "A",
     "quote": "A page without a title is like a book without a cover. How am I supposed to know what it's about?",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -686,7 +686,7 @@
   {
     "id": "2.4.3",
     "title": "Focus Order",
-    "level": "Level A",
+    "level": "A",
     "quote": "It's like a game of hopscotch—my focus jumps from here to there. Can we make it a straight line, please?",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -704,7 +704,7 @@
   {
     "id": "2.4.4",
     "title": "Link Purpose (In Context)",
-    "level": "Level A",
+    "level": "A",
     "quote": "'Click here'? Click where? And for what? Come on, let's be a little more descriptive!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -722,7 +722,7 @@
   {
     "id": "2.4.5",
     "title": "Multiple Ways",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "One path to the treasure? Nah, I need options! Show me different ways to get to the gold!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -740,7 +740,7 @@
   {
     "id": "2.4.6",
     "title": "Headings and Labels",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Headings? Labels? Give 'em to me! It's like speed reading for my screen reader.",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -758,7 +758,7 @@
   {
     "id": "2.4.7",
     "title": "Focus Visible",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Where's Waldo? More like, where's my focus? Show me where I am!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -776,7 +776,7 @@
   {
     "id": "2.4.8",
     "title": "Location",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "I need a map! Or at least a 'You Are Here' sign. Help me figure out where I am on your site!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -794,7 +794,7 @@
   {
     "id": "2.4.9",
     "title": "Link Purpose (Link Only)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "'Click Here' is like saying 'Eat This' without telling me what it is. I need to know what I'm getting into!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -812,7 +812,7 @@
   {
     "id": "2.4.10",
     "title": "Section Headings",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Think of section headings like road signs. I need to know where each turn leads!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -830,7 +830,7 @@
   {
     "id": "2.4.11",
     "title": "Focus Not Obscured (Minimum)",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Playing peek-a-boo with focused elements isn't fun. Keep my focus visible!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -848,7 +848,7 @@
   {
     "id": "2.4.12",
     "title": "Focus Not Obscured (Enhanced)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "I need clear sightlines to navigate—ensure nothing's hiding my focus, not even a pixel!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -866,7 +866,7 @@
   {
     "id": "2.4.13",
     "title": "Focus Appearance",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Make the spotlight on the screen as clear as the one on Broadway; my focus deserves to stand out!",
     "category": "Operable",
     "subCategory": "Navigable",
@@ -884,7 +884,7 @@
   {
     "id": "3.1.1",
     "title": "Language of Page",
-    "level": "Level A",
+    "level": "A",
     "quote": "Ahoy matey! Why's this site talkin' like a pirate? Set the language, will ya?",
     "category": "Understandable",
     "subCategory": "Readable",
@@ -902,7 +902,7 @@
   {
     "id": "3.1.2",
     "title": "Language of Parts",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Don't switch languages on me mid-sentence! My brain isn't a real-time translator!",
     "category": "Understandable",
     "subCategory": "Readable",
@@ -920,7 +920,7 @@
   {
     "id": "3.1.3",
     "title": "Unusual Words",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "What do you mean by 'propinquity'? Speak English, website!",
     "category": "Understandable",
     "subCategory": "Readable",
@@ -938,7 +938,7 @@
   {
     "id": "3.1.4",
     "title": "Abbreviations",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "IDK what 'IDK' means! Spell it out for me!",
     "category": "Understandable",
     "subCategory": "Readable",
@@ -956,7 +956,7 @@
   {
     "id": "3.1.5",
     "title": "Reading Level",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Is this a website or a PhD dissertation? Simplify the language!",
     "category": "Understandable",
     "subCategory": "Readable",
@@ -974,7 +974,7 @@
   {
     "id": "3.1.6",
     "title": "Pronunciation",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "I can't pronounce 'synecdoche.' How about a phonetic guide, huh?",
     "category": "Understandable",
     "subCategory": "Readable",
@@ -992,7 +992,7 @@
   {
     "id": "3.2.1",
     "title": "On Focus",
-    "level": "Level A",
+    "level": "A",
     "quote": "Whoa, what just happened? I only tabbed in!",
     "category": "Understandable",
     "subCategory": "Predictable",
@@ -1010,7 +1010,7 @@
   {
     "id": "3.2.2",
     "title": "On Input",
-    "level": "Level A",
+    "level": "A",
     "quote": "Hey, I was still reading! Don't switch tabs on me!",
     "category": "Understandable",
     "subCategory": "Predictable",
@@ -1028,7 +1028,7 @@
   {
     "id": "3.2.3",
     "title": "Consistent Navigation",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Where did the menu go? It was at the top, now it's at the bottom? Make up your mind, website!",
     "category": "Understandable",
     "subCategory": "Predictable",
@@ -1046,7 +1046,7 @@
   {
     "id": "3.2.4",
     "title": "Consistent Identification",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Why is 'Sign Out' called 'Log Off' on another page? Are you trying to confuse me?",
     "category": "Understandable",
     "subCategory": "Predictable",
@@ -1064,7 +1064,7 @@
   {
     "id": "3.2.5",
     "title": "Change on Request",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Don't move the ground beneath me unless I say so. Changes should happen on my cue!",
     "category": "Understandable",
     "subCategory": "Predictable",
@@ -1082,7 +1082,7 @@
   {
     "id": "3.2.6",
     "title": "Consistent Help",
-    "level": "Level A",
+    "level": "A",
     "quote": "Whether I'm lost or just curious, knowing where to find help is a relief. Keep it consistent!",
     "category": "Understandable",
     "subCategory": "Predictable",
@@ -1100,7 +1100,7 @@
   {
     "id": "3.3.1",
     "title": "Error Identification",
-    "level": "Level A",
+    "level": "A",
     "quote": "Oops, did I make a typo? A little hint would be nice so I can fix it right up!",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1118,7 +1118,7 @@
   {
     "id": "3.3.2",
     "title": "Labels or Instructions",
-    "level": "Level A",
+    "level": "A",
     "quote": "Tell me what you want, what you really, really want from this form field!",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1136,7 +1136,7 @@
   {
     "id": "3.3.3",
     "title": "Error Suggestion",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Made a mistake? No worries, here's a hint to get it right!",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1154,7 +1154,7 @@
   {
     "id": "3.3.4",
     "title": "Error Prevention (Legal, Financial, Data)",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "Before we seal the deal, let's double-check. No regrets, right?",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1172,7 +1172,7 @@
   {
     "id": "3.3.5",
     "title": "Help",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "A little help goes a long way. Especially when it's just a click away.",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1190,7 +1190,7 @@
   {
     "id": "3.3.6",
     "title": "Error Prevention (All)",
-    "level": "Level AAA",
+    "level": "AAA",
     "quote": "Let's get it right the first time. But just in case, how about a safety net?",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1208,7 +1208,7 @@
   {
     "id": "3.3.7",
     "title": "Redundant Entry",
-    "level": "Level A) [New",
+    "level": "A) [New",
     "quote": "Why tell you something twice? Remember what I said the first time, please!",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1226,7 +1226,7 @@
   {
     "id": "3.3.8",
     "title": "Accessible Authentication (Minimum)",
-    "level": "Level AA) [New",
+    "level": "AA) [New",
     "quote": "Remembering passwords is tough. How about we keep it simple but secure?",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1244,7 +1244,7 @@
   {
     "id": "3.3.9",
     "title": "Accessible Authentication (Enhanced)",
-    "level": "Level AAA) [New",
+    "level": "AAA) [New",
     "quote": "Security shouldn't be a puzzle. Let's make access straightforward for everyone.",
     "category": "Understandable",
     "subCategory": "Input Assistance",
@@ -1262,7 +1262,7 @@
   {
     "id": "4.1.1",
     "title": "Parsing",
-    "level": "Level A) (Deprecated",
+    "level": "A) (Deprecated",
     "quote": "Your website's code is like a bowl of spaghetti—everything's tangled up!",
     "category": "Robust",
     "subCategory": "Comparable",
@@ -1280,7 +1280,7 @@
   {
     "id": "4.1.2",
     "title": "Name, Role, Value",
-    "level": "Level A",
+    "level": "A",
     "quote": "'Button1'? 'Button2'? What do these buttons even do? Give 'em proper names!",
     "category": "Robust",
     "subCategory": "Comparable",
@@ -1298,7 +1298,7 @@
   {
     "id": "4.1.3",
     "title": "Status Messages",
-    "level": "Level AA",
+    "level": "AA",
     "quote": "A little heads-up would be nice, you know! Did my form go through or not?",
     "category": "Robust",
     "subCategory": "Comparable",
