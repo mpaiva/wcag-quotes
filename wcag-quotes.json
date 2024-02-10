@@ -3,17 +3,17 @@
     "id": "1.1.1",
     "title": "Non-text Content",
     "level": "Level A",
-    "Quote": "A picture may be worth a thousand words, but for me, it's worth zero if you don't describe it!",
-    "Category": "Perceivable",
+    "quote": "A picture may be worth a thousand words, but for me, it's worth zero if you don't describe it!",
+    "category": "Perceivable",
     "subCategory": "Text Alternatives",
     "disability": "Blindness",
     "suggestionForIllustration": "A character wearing sunglasses and using a screen reader, puzzled by an image with no alt text.",
     "wcagDescription": "Provide text alternatives for non-text content.",
     "teamRecommendations": {
-      "ProductManager": "Prioritize adding alt text to all images on the website.",
-      "UX": "Include placeholders for alt text in the UI/UX design.",
-      "Developer": "Ensure all img tags have a descriptive alt attribute.",
-      "QA": "Test to ensure that screen readers correctly announce all images."
+      "pm": "Prioritize adding alt text to all images on the website.",
+      "ux": "Include placeholders for alt text in the UI/UX design.",
+      "dev": "Ensure all img tags have a descriptive alt attribute.",
+      "qa": "Test to ensure that screen readers correctly announce all images."
     },
     "thankfulNote": "Ah, now I get the picture! Literally!"
   },
@@ -21,17 +21,17 @@
     "id": "1.2.1",
     "title": "Audio-only and Video-only (Pre-recorded)",
     "level": "Level A",
-    "Quote": "What's happening in the video? Don't leave me hanging!",
-    "Category": "Perceivable",
+    "quote": "What's happening in the video? Don't leave me hanging!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Deafness",
     "suggestionForIllustration": "A character with a hearing aid looking frustrated in front of a video playing without captions.",
     "wcagDescription": "Provide an alternative to video or audio-only content.",
     "teamRecommendations": {
-      "ProductManager": "Allocate resources to create transcriptions for audio and captions for video content.",
-      "UX": "Design a UI that allows users to toggle captions on/off easily.",
-      "Developer": "Integrate captions and transcriptions into the video and audio players.",
-      "QA": "Test the functionality of toggling captions and transcriptions across multiple devices and browsers."
+      "pm": "Allocate resources to create transcriptions for audio and captions for video content.",
+      "ux": "Design a UI that allows users to toggle captions on/off easily.",
+      "dev": "Integrate captions and transcriptions into the video and audio players.",
+      "qa": "Test the functionality of toggling captions and transcriptions across multiple devices and browsers."
     },
     "thankfulNote": "Thank you for filling in the blanks! Now I can follow along like everyone else!"
   },
@@ -39,17 +39,17 @@
     "id": "1.2.2",
     "title": "Captions (Prerecorded)",
     "level": "Level A",
-    "Quote": "Finally, a cooking video where I can read the recipe, not just watch it!",
-    "Category": "Perceivable",
+    "quote": "Finally, a cooking video where I can read the recipe, not just watch it!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Deafness",
     "suggestionForIllustration": "A character with a hearing aid enjoying a cooking video with captions on their tablet.",
     "wcagDescription": "Captions are provided for all prerecorded audio content in synchronized media.",
     "teamRecommendations": {
-      "ProductManager": "Ensure all video content is accompanied by synchronized captions.",
-      "UX": "Include a conspicuous \"CC\" button to toggle captions on/off.",
-      "Developer": "Implement a closed-captioning feature that syncs accurately with the video.",
-      "QA": "Verify that captions are accurate, well-timed, and easily toggled on/off."
+      "pm": "Ensure all video content is accompanied by synchronized captions.",
+      "ux": "Include a conspicuous \"CC\" button to toggle captions on/off.",
+      "dev": "Implement a closed-captioning feature that syncs accurately with the video.",
+      "qa": "Verify that captions are accurate, well-timed, and easily toggled on/off."
     },
     "thankfulNote": "Now I know it's a dash of salt, not a whole salt mine. Thanks for making cooking a joy!"
   },
@@ -57,17 +57,17 @@
     "id": "1.2.3",
     "title": "Audio Description or Media Alternative (Prerecorded)",
     "level": "Level AA",
-    "Quote": "No more guessing games with silent films; narrate the story, and I'm all ears!",
-    "Category": "Perceivable",
+    "quote": "No more guessing games with silent films; narrate the story, and I'm all ears!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Blindness and Low Vision",
     "suggestionForIllustration": "A character with visual impairments sitting with headphones, smiling as they listen to the audio description of a movie scene.",
     "wcagDescription": "An alternative for time-based media or an audio description is provided for all prerecorded video content in synchronized media.",
     "teamRecommendations": {
-      "ProductManager": "Invest in creating audio descriptions for all prerecorded video content to enhance accessibility.",
-      "UX": "Design video players with an easy-to-find button for enabling audio descriptions.",
-      "Developer": "Ensure the video player supports audio descriptions and that they are properly synchronized with the video.",
-      "QA": "Test audio descriptions for accuracy and synchronization with the visual content of the videos."
+      "pm": "Invest in creating audio descriptions for all prerecorded video content to enhance accessibility.",
+      "ux": "Design video players with an easy-to-find button for enabling audio descriptions.",
+      "dev": "Ensure the video player supports audio descriptions and that they are properly synchronized with the video.",
+      "qa": "Test audio descriptions for accuracy and synchronization with the visual content of the videos."
     },
     "thankfulNote": "With your vivid descriptions, it's like I'm watching the movie in my mind. You've brought the action to life for me!"
   },
@@ -75,17 +75,17 @@
     "id": "1.2.4",
     "title": "Audio Description or Media Alternative (Prerecorded)",
     "level": "Level AA",
-    "Quote": "So you're saying there was an epic car chase, and I missed it? Unbelievable!",
-    "Category": "Perceivable",
+    "quote": "So you're saying there was an epic car chase, and I missed it? Unbelievable!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Visual Impairment",
     "suggestionForIllustration": "A visually impaired character missing out on the action scene in a movie due to lack of audio description.",
     "wcagDescription": "An alternative for time-based media or audio description of the prerecorded video content is provided for synchronized media.",
     "teamRecommendations": {
-      "ProductManager": "Provide resources to create audio descriptions for all prerecorded video content.",
-      "UX": "Design an intuitive UI that lets users easily enable or disable audio descriptions.",
-      "Developer": "Implement audio descriptions that can be toggled on/off and are synced with the video content.",
-      "QA": "Test the accuracy and synchronization of audio descriptions across multiple devices."
+      "pm": "Provide resources to create audio descriptions for all prerecorded video content.",
+      "ux": "Design an intuitive UI that lets users easily enable or disable audio descriptions.",
+      "dev": "Implement audio descriptions that can be toggled on/off and are synced with the video content.",
+      "qa": "Test the accuracy and synchronization of audio descriptions across multiple devices."
     },
     "thankfulNote": "I felt every twist and turn of that car chase. Thanks for bringing the action to me!"
   },
@@ -93,17 +93,17 @@
     "id": "1.2.5",
     "title": "Audio Description (Prerecorded)",
     "level": "Level AA",
-    "Quote": "I don't just want to hear the movie; I want to see it with my ears!",
-    "Category": "Perceivable",
+    "quote": "I don't just want to hear the movie; I want to see it with my ears!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Visual Impairment",
     "suggestionForIllustration": "A visually impaired character with headphones, smiling as they enjoy a movie with audio descriptions.",
     "wcagDescription": "Audio descriptions are provided for all prerecorded video content in synchronized media.",
     "teamRecommendations": {
-      "ProductManager": "Ensure all prerecorded videos have an audio description option.",
-      "UX": "Include an easy-to-find option to toggle audio descriptions on/off in the video player controls.",
-      "Developer": "Implement audio description tracks that are easy to enable or disable.",
-      "QA": "Test for the seamless toggling and synchronization of audio descriptions."
+      "pm": "Ensure all prerecorded videos have an audio description option.",
+      "ux": "Include an easy-to-find option to toggle audio descriptions on/off in the video player controls.",
+      "dev": "Implement audio description tracks that are easy to enable or disable.",
+      "qa": "Test for the seamless toggling and synchronization of audio descriptions."
     },
     "thankfulNote": "Now I can 'see' what all the fuss is about this movie. You made my day!"
   },
@@ -111,17 +111,17 @@
     "id": "1.2.6",
     "title": "Sign Language (Prerecorded)",
     "level": "Level AAA",
-    "Quote": "Now that's what I call a conversation—your hands do the talking and I'm all eyes!",
-    "Category": "Perceivable",
+    "quote": "Now that's what I call a conversation—your hands do the talking and I'm all eyes!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Deafness, Hard of Hearing",
     "suggestionForIllustration": "A character using sign language to follow along with a sign language interpreter displayed in a video.",
     "wcagDescription": "Sign language interpretation is provided for all prerecorded audio content in synchronized media.",
     "teamRecommendations": {
-      "ProductManager": "Prioritize sign language interpretation for all major video content, ensuring inclusivity for deaf and hard of hearing users.",
-      "UX": "Integrate a sign language interpretation option that is clearly labeled and easy to access within the video player.",
-      "Developer": "Incorporate a video player feature that allows users to select sign language interpretation where available.",
-      "QA": "Conduct thorough testing to ensure the sign language interpretation is correctly positioned, sized, and synchronized with the audio content."
+      "pm": "Prioritize sign language interpretation for all major video content, ensuring inclusivity for deaf and hard of hearing users.",
+      "ux": "Integrate a sign language interpretation option that is clearly labeled and easy to access within the video player.",
+      "dev": "Incorporate a video player feature that allows users to select sign language interpretation where available.",
+      "qa": "Conduct thorough testing to ensure the sign language interpretation is correctly positioned, sized, and synchronized with the audio content."
     },
     "thankfulNote": "Seeing the language I love used in your videos makes me feel recognized and valued. Thank you for signing me in!"
   },
@@ -129,17 +129,17 @@
     "id": "1.2.7",
     "title": "Extended Audio Description (Prerecorded)",
     "level": "Level AAA",
-    "Quote": "Your movie's got more gaps than my granny's teeth—fill 'em in with audio description, please!",
-    "Category": "Perceivable",
+    "quote": "Your movie's got more gaps than my granny's teeth—fill 'em in with audio description, please!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Blindness and Low Vision",
     "suggestionForIllustration": "A character with visual impairments sitting attentively with headphones, a smile on their face as they listen to an extended audio description during a movie pause.",
     "wcagDescription": "Where pauses in foreground audio are insufficient to allow audio descriptions to convey the sense of the video, extended audio description is provided for all prerecorded video content in synchronized media.",
     "teamRecommendations": {
-      "ProductManager": "Allocate additional resources to ensure that videos include extended audio descriptions for complex scenes.",
-      "UX": "Design video players with the capability to handle extended audio descriptions, ensuring a seamless viewing experience for users with visual impairments.",
-      "Developer": "Develop the functionality to extend pauses or provide additional audio description tracks as needed for comprehensive descriptions.",
-      "QA": "Test audio descriptions thoroughly to confirm that they provide a clear and accurate narrative during extended pauses in the original audio."
+      "pm": "Allocate additional resources to ensure that videos include extended audio descriptions for complex scenes.",
+      "ux": "Design video players with the capability to handle extended audio descriptions, ensuring a seamless viewing experience for users with visual impairments.",
+      "dev": "Develop the functionality to extend pauses or provide additional audio description tracks as needed for comprehensive descriptions.",
+      "qa": "Test audio descriptions thoroughly to confirm that they provide a clear and accurate narrative during extended pauses in the original audio."
     },
     "thankfulNote": "Thanks to the extended descriptions, I'm not just filling in the blanks with my imagination anymore. It's like I'm right there in the scene!"
   },
@@ -147,17 +147,17 @@
     "id": "1.2.8",
     "title": "Media Alternative (Prerecorded)",
     "level": "Level AAA",
-    "Quote": "Don't just show me the action, tell me the story. A text alternative lets me follow along my way!",
-    "Category": "Perceivable",
+    "quote": "Don't just show me the action, tell me the story. A text alternative lets me follow along my way!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Blindness, Low Vision, Cognitive Impairments",
     "suggestionForIllustration": "A character with visual impairments reading a braille transcript of a video.",
     "wcagDescription": "A full text alternative for all prerecorded video content in synchronized media is provided for those who cannot see and/or hear the content.",
     "teamRecommendations": {
-      "ProductManager": "Ensure comprehensive text alternatives are available for all video content, offering equivalent information for those who need it.",
-      "UX": "Create an easily navigable text alternative that is synchronized with the video content.",
-      "Developer": "Implement a mechanism to link to or display the text alternative within the video player interface.",
-      "QA": "Test the text alternative for accuracy and ensure it provides an equivalent experience to the audio-visual content."
+      "pm": "Ensure comprehensive text alternatives are available for all video content, offering equivalent information for those who need it.",
+      "ux": "Create an easily navigable text alternative that is synchronized with the video content.",
+      "dev": "Implement a mechanism to link to or display the text alternative within the video player interface.",
+      "qa": "Test the text alternative for accuracy and ensure it provides an equivalent experience to the audio-visual content."
     },
     "thankfulNote": "Reading the action as a text alternative makes me feel included in every scene. It's like having my own personal screenplay!"
   },
@@ -165,17 +165,17 @@
     "id": "1.2.9",
     "title": "Audio-only (Live)",
     "level": "Level AAA",
-    "Quote": "If I can't see the event, I can still hear the excitement. Live audio feeds keep me in the loop!",
-    "Category": "Perceivable",
+    "quote": "If I can't see the event, I can still hear the excitement. Live audio feeds keep me in the loop!",
+    "category": "Perceivable",
     "subCategory": "Time-based Media",
     "disability": "Blindness, Low Vision",
     "suggestionForIllustration": "A character with visual impairments excitedly listening to a live audio feed of a sports game, cheering with every play.",
     "wcagDescription": "An alternative for time-based media is provided for all live audio content in synchronized media.",
     "teamRecommendations": {
-      "ProductManager": "Provide live audio descriptions or commentary for all live events broadcasted on the platform.",
-      "UX": "Design the audio player with accessible features for starting and controlling the live audio feed.",
-      "Developer": "Ensure the live audio stream is compatible with various devices and assistive technologies, and has a clear, user-friendly interface.",
-      "QA": "Test the live audio functionality during actual events to ensure a smooth and accessible experience for users with visual impairments."
+      "pm": "Provide live audio descriptions or commentary for all live events broadcasted on the platform.",
+      "ux": "Design the audio player with accessible features for starting and controlling the live audio feed.",
+      "dev": "Ensure the live audio stream is compatible with various devices and assistive technologies, and has a clear, user-friendly interface.",
+      "qa": "Test the live audio functionality during actual events to ensure a smooth and accessible experience for users with visual impairments."
     },
     "thankfulNote": "Your live audio feed is like having a front-row seat at every event. I'm not missing a beat, thanks to you!"
   },
@@ -183,17 +183,17 @@
     "id": "1.3.1",
     "title": "Info and Relationships",
     "level": "Level A",
-    "Quote": "So this button does...what exactly? Is it a mystery box?",
-    "Category": "Perceivable",
+    "quote": "So this button does...what exactly? Is it a mystery box?",
+    "category": "Perceivable",
     "subCategory": "Adaptable",
     "disability": "Cognitive Impairment",
     "suggestionForIllustration": "A character looking confused at a button on a website with an unclear label.",
     "wcagDescription": "Information, structure, and relationships conveyed through presentation can be programmatically determined or are available in text.",
     "teamRecommendations": {
-      "ProductManager": "Ensure all UI elements are clearly labeled and their function is evident.",
-      "UX": "Design intuitive labels and include tooltips for more complex buttons or elements.",
-      "Developer": "Use semantic HTML and ARIA landmarks to help define the structure and purpose of elements.",
-      "QA": "Test for the clarity and accessibility of all UI elements across different platforms."
+      "pm": "Ensure all UI elements are clearly labeled and their function is evident.",
+      "ux": "Design intuitive labels and include tooltips for more complex buttons or elements.",
+      "dev": "Use semantic HTML and ARIA landmarks to help define the structure and purpose of elements.",
+      "qa": "Test for the clarity and accessibility of all UI elements across different platforms."
     },
     "thankfulNote": "I no longer feel like I'm gambling every time I press a button. Thanks for the clarity!"
   },
@@ -201,17 +201,17 @@
     "id": "1.3.2",
     "title": "Meaningful Sequence",
     "level": "Level A",
-    "Quote": "Wait, I'm supposed to click on what first? It's like reading a book backwards!",
-    "Category": "Perceivable",
+    "quote": "Wait, I'm supposed to click on what first? It's like reading a book backwards!",
+    "category": "Perceivable",
     "subCategory": "Adaptable",
     "disability": "Cognitive Impairment",
     "suggestionForIllustration": "A character looking confused at a website with jumbled content layout.",
     "wcagDescription": "When the sequence in which content is presented affects its meaning, a correct reading sequence can be programmatically determined.",
     "teamRecommendations": {
-      "ProductManager": "Review the site layout to ensure logical flow and usability.",
-      "UX": "Design the UI so that content follows a logical, intuitive sequence.",
-      "Developer": "Use semantic markup to maintain a meaningful sequence in the DOM.",
-      "QA": "Test the content's reading sequence using different accessibility tools."
+      "pm": "Review the site layout to ensure logical flow and usability.",
+      "ux": "Design the UI so that content follows a logical, intuitive sequence.",
+      "dev": "Use semantic markup to maintain a meaningful sequence in the DOM.",
+      "qa": "Test the content's reading sequence using different accessibility tools."
     },
     "thankfulNote": "Ah, a website that makes sense! You've untangled the web for me!"
   },
@@ -219,17 +219,17 @@
     "id": "1.3.3",
     "title": "Sensory Characteristics",
     "level": "Level A",
-    "Quote": "So I should 'Click the round, red button.' Great, but what if I can't see 'round' or 'red'?",
-    "Category": "Perceivable",
+    "quote": "So I should 'Click the round, red button.' Great, but what if I can't see 'round' or 'red'?",
+    "category": "Perceivable",
     "subCategory": "Adaptable",
     "disability": "Visual Impairment",
     "suggestionForIllustration": "A visually impaired character confused by a webpage instructing to click a button based only on its shape and color.",
     "wcagDescription": "Instructions provided for understanding and operating content do not rely solely on sensory characteristics of components such as shape, size, visual location, orientation, or sound.",
     "teamRecommendations": {
-      "ProductManager": "Include multiple identifiers for actionable items beyond just sensory characteristics.",
-      "UX": "Supplement sensory cues with text or auditory descriptions.",
-      "Developer": "Implement textual labels alongside sensory characteristics in instructions.",
-      "QA": "Test to make sure instructions are clear even when visual or auditory cues are absent."
+      "pm": "Include multiple identifiers for actionable items beyond just sensory characteristics.",
+      "ux": "Supplement sensory cues with text or auditory descriptions.",
+      "dev": "Implement textual labels alongside sensory characteristics in instructions.",
+      "qa": "Test to make sure instructions are clear even when visual or auditory cues are absent."
     },
     "thankfulNote": "Thanks for making it crystal clear! No more guessing games for me!"
   },
@@ -237,17 +237,17 @@
     "id": "1.3.4",
     "title": "Orientation",
     "level": "Level AA",
-    "Quote": "Hey, I didn't tilt the world, so why are you forcing me to tilt my screen?",
-    "Category": "Perceivable",
+    "quote": "Hey, I didn't tilt the world, so why are you forcing me to tilt my screen?",
+    "category": "Perceivable",
     "subCategory": "Adaptable",
     "disability": "Mobility Impairment",
     "suggestionForIllustration": "A character in a wheelchair struggling to rotate a tablet for landscape view.",
     "wcagDescription": "Content does not restrict its view and operation to a single display orientation, such as portrait or landscape, unless a specific display orientation is essential.",
     "teamRecommendations": {
-      "ProductManager": "Allow for both portrait and landscape orientations unless it's crucial to the function of the feature.",
-      "UX": "Design UI layouts that adapt gracefully to changes in orientation.",
-      "Developer": "Implement responsive design that accommodates various screen orientations.",
-      "QA": "Test that the site or app functions well in both portrait and landscape modes."
+      "pm": "Allow for both portrait and landscape orientations unless it's crucial to the function of the feature.",
+      "ux": "Design UI layouts that adapt gracefully to changes in orientation.",
+      "dev": "Implement responsive design that accommodates various screen orientations.",
+      "qa": "Test that the site or app functions well in both portrait and landscape modes."
     },
     "thankfulNote": "Now I can use my device my way! You've put me back in control!"
   },
@@ -255,17 +255,17 @@
     "id": "1.3.5",
     "title": "Identify Input Purpose",
     "level": "Level AA",
-    "Quote": "I love surprises, but not when filling out forms. Tell me what you want already!",
-    "Category": "Perceivable",
+    "quote": "I love surprises, but not when filling out forms. Tell me what you want already!",
+    "category": "Perceivable",
     "subCategory": "Adaptable",
     "disability": "Cognitive Impairment",
     "suggestionForIllustration": "A character puzzled by an input field on a form with no labels or hints.",
     "wcagDescription": "The purpose of each input field collecting information about the user can be programmatically determined when the input field serves a purpose identified in the Input Purposes for User Interface Components section.",
     "teamRecommendations": {
-      "ProductManager": "Ensure all input fields in forms have clear and understandable labels.",
-      "UX": "Use placeholders, tooltips, or helper text to guide the user on what information is required.",
-      "Developer": "Utilize autocomplete attributes where applicable to assist with form filling.",
-      "QA": "Verify that all input fields are easily identifiable and functional."
+      "pm": "Ensure all input fields in forms have clear and understandable labels.",
+      "ux": "Use placeholders, tooltips, or helper text to guide the user on what information is required.",
+      "dev": "Utilize autocomplete attributes where applicable to assist with form filling.",
+      "qa": "Verify that all input fields are easily identifiable and functional."
     },
     "thankfulNote": "You’ve cleared up the fog! Forms aren't a maze anymore."
   },
@@ -273,17 +273,17 @@
     "id": "1.4.1",
     "title": "Use of Color",
     "level": "Level A",
-    "Quote": "Red means go, green means stop! Wait, that's not right, is it?",
-    "Category": "Perceivable",
+    "quote": "Red means go, green means stop! Wait, that's not right, is it?",
+    "category": "Perceivable",
     "subCategory": "Distinguishable",
     "disability": "Color Blindness",
     "suggestionForIllustration": "A character with color blindness confused by traffic lights with no shape differentiation.",
     "wcagDescription": "Color is not used as the only visual means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.",
     "teamRecommendations": {
-      "ProductManager": "Make sure color alone is not the only indicator for important actions or information.",
-      "UX": "Combine color with other visual indicators like text, shapes, or icons.",
-      "Developer": "Implement visual cues alongside color to convey information effectively.",
-      "QA": "Test the design for accessibility with color blindness simulators."
+      "pm": "Make sure color alone is not the only indicator for important actions or information.",
+      "ux": "Combine color with other visual indicators like text, shapes, or icons.",
+      "dev": "Implement visual cues alongside color to convey information effectively.",
+      "qa": "Test the design for accessibility with color blindness simulators."
     },
     "thankfulNote": "Finally, I don't have to play a guessing game with colors. You've made life a whole lot easier!"
   },
@@ -291,17 +291,17 @@
     "id": "1.4.2",
     "title": "Audio Control",
     "level": "Level A",
-    "Quote": "Yikes! The video started blasting! I nearly dropped my coffee!",
-    "Category": "Perceivable",
+    "quote": "Yikes! The video started blasting! I nearly dropped my coffee!",
+    "category": "Perceivable",
     "subCategory": "Distinguishable",
     "disability": "Hearing Impairment",
     "suggestionForIllustration": "A character startled by loud, autoplaying audio on a website.",
     "wcagDescription": "If any audio on a Web page plays automatically for more than 3 seconds, either a mechanism is available to pause or stop the audio, or a mechanism is available to control the audio volume independently from the overall system volume level.",
     "teamRecommendations": {
-      "ProductManager": "Avoid autoplaying audio or provide clear controls to stop or adjust the volume.",
-      "UX": "Design visible and easy-to-use audio controls on the media player.",
-      "Developer": "Implement audio controls that can be easily accessed and used.",
-      "QA": "Test to make sure audio controls are functional and accessible on different devices."
+      "pm": "Avoid autoplaying audio or provide clear controls to stop or adjust the volume.",
+      "ux": "Design visible and easy-to-use audio controls on the media player.",
+      "dev": "Implement audio controls that can be easily accessed and used.",
+      "qa": "Test to make sure audio controls are functional and accessible on different devices."
     },
     "thankfulNote": "Thanks for giving me control of the sound. My coffee thanks you too!"
   },
@@ -309,17 +309,17 @@
     "id": "1.4.3",
     "title": "Contrast (Minimum)",
     "level": "Level AA",
-    "Quote": "Is that text or a chameleon? I can't tell because it's blending into the background!",
-    "Category": "Perceivable",
+    "quote": "Is that text or a chameleon? I can't tell because it's blending into the background!",
+    "category": "Perceivable",
     "subCategory": "Distinguishable",
     "disability": "Low Vision",
     "suggestionForIllustration": "A character squinting at a screen with low-contrast text.",
     "wcagDescription": "Text and images of text have a contrast ratio of at least 4.5:1, except for large text, incidental text, or logos.",
     "teamRecommendations": {
-      "ProductManager": "Maintain a minimum contrast ratio for text to ensure readability.",
-      "UX": "Use a color contrast tool to check and validate text-to-background contrast.",
-      "Developer": "Use CSS to set text and background colors that meet the minimum contrast requirements.",
-      "QA": "Test contrast ratios on multiple devices under various lighting conditions."
+      "pm": "Maintain a minimum contrast ratio for text to ensure readability.",
+      "ux": "Use a color contrast tool to check and validate text-to-background contrast.",
+      "dev": "Use CSS to set text and background colors that meet the minimum contrast requirements.",
+      "qa": "Test contrast ratios on multiple devices under various lighting conditions."
     },
     "thankfulNote": "Ah, now I can read without straining my eyes. You're a lifesaver!"
   },
@@ -327,17 +327,17 @@
     "id": "1.4.4",
     "title": "Resize Text",
     "level": "Level AA",
-    "Quote": "Why do I feel like I need a microscope to read this text?",
-    "Category": "Perceivable",
+    "quote": "Why do I feel like I need a microscope to read this text?",
+    "category": "Perceivable",
     "subCategory": "Distinguishable",
     "disability": "Low Vision",
     "suggestionForIllustration": "A character using a magnifying glass to read small text on a screen.",
     "wcagDescription": "Except for captions and images of text, text can be resized without assistive technology up to 200 percent without loss of content or functionality.",
     "teamRecommendations": {
-      "ProductManager": "Ensure that text on the site is resizable without breaking layout or functionality.",
-      "UX": "Design a flexible layout that accommodates text resizing.",
-      "Developer": "Use relative units for text sizes to make sure they can be resized easily.",
-      "QA": "Test text resizing across various browsers to ensure readability and usability."
+      "pm": "Ensure that text on the site is resizable without breaking layout or functionality.",
+      "ux": "Design a flexible layout that accommodates text resizing.",
+      "dev": "Use relative units for text sizes to make sure they can be resized easily.",
+      "qa": "Test text resizing across various browsers to ensure readability and usability."
     },
     "thankfulNote": "Now I can read comfortably without hunting for my magnifying glass. Much appreciated!"
   },
@@ -345,17 +345,17 @@
     "id": "1.4.5",
     "title": "Images of Text",
     "level": "Level AA",
-    "Quote": "Is that a logo or a ransom note? Text in images are a no-go for me!",
-    "Category": "Perceivable",
+    "quote": "Is that a logo or a ransom note? Text in images are a no-go for me!",
+    "category": "Perceivable",
     "subCategory": "Distinguishable",
     "disability": "Low Vision",
     "suggestionForIllustration": "A character struggling to read text that is embedded in an image.",
     "wcagDescription": "If the same visual presentation can be made using text alone, an image is not used to present that text.",
     "teamRecommendations": {
-      "ProductManager": "Avoid using images for text unless absolutely necessary.",
-      "UX": "If text must be part of an image, make sure it has high contrast and is legible.",
-      "Developer": "Use CSS and web fonts to style text, avoiding the need for text within images.",
-      "QA": "Check for the presence of images used as text and verify if they are compliant with guidelines."
+      "pm": "Avoid using images for text unless absolutely necessary.",
+      "ux": "If text must be part of an image, make sure it has high contrast and is legible.",
+      "dev": "Use CSS and web fonts to style text, avoiding the need for text within images.",
+      "qa": "Check for the presence of images used as text and verify if they are compliant with guidelines."
     },
     "thankfulNote": "You just saved me from squinting at grainy images. Text has never looked so good!"
   },
@@ -363,17 +363,17 @@
     "id": "1.4.6",
     "title": "Contrast (Enhanced)",
     "level": "Level AAA",
-    "Quote": "Wow, the contrast here is so good, it's like the text is leaping off the screen!",
-    "Category": "Perceivable",
+    "quote": "Wow, the contrast here is so good, it's like the text is leaping off the screen!",
+    "category": "Perceivable",
     "subCategory": "Distinguishable",
     "disability": "Low Vision",
     "suggestionForIllustration": "A character delightfully reading a screen with high-contrast text.",
     "wcagDescription": "Text or images of text have a contrast ratio of at least 7:1, except for large text, incidental text, or logos.",
     "teamRecommendations": {
-      "ProductManager": "Aim for an enhanced contrast ratio for improved readability.",
-      "UX": "Use a color contrast tool to verify that text-to-background contrast exceeds minimum guidelines.",
-      "Developer": "Utilize CSS variables to easily adjust and manage contrast ratios.",
-      "QA": "Perform rigorous tests on contrast ratios under different conditions to ensure optimal readability."
+      "pm": "Aim for an enhanced contrast ratio for improved readability.",
+      "ux": "Use a color contrast tool to verify that text-to-background contrast exceeds minimum guidelines.",
+      "dev": "Utilize CSS variables to easily adjust and manage contrast ratios.",
+      "qa": "Perform rigorous tests on contrast ratios under different conditions to ensure optimal readability."
     },
     "thankfulNote": "I never thought I'd describe a website as vibrant, but here we are. You’ve made my day brighter!"
   },
@@ -381,17 +381,17 @@
     "id": "1.4.7",
     "title": "Low or No Background Audio",
     "level": "Level AAA",
-    "Quote": "If I wanted to listen to a rock concert while reading, I'd buy tickets!",
-    "Category": "Perceivable",
+    "quote": "If I wanted to listen to a rock concert while reading, I'd buy tickets!",
+    "category": "Perceivable",
     "subCategory": "Distinguishable",
     "disability": "Hearing Impairment",
     "suggestionForIllustration": "A character irritated by loud background music while trying to concentrate on reading text.",
     "wcagDescription": "Audio does not contain background sounds, or the background sounds are at least 20 decibels lower than the foreground speech content.",
     "teamRecommendations": {
-      "ProductManager": "Minimize or eliminate background audio to prioritize speech content.",
-      "UX": "Provide an option to mute or control the volume of background sounds.",
-      "Developer": "Implement audio controls and levels that align with the guidelines.",
-      "QA": "Test for audio clarity and ensure that background audio does not drown out speech."
+      "pm": "Minimize or eliminate background audio to prioritize speech content.",
+      "ux": "Provide an option to mute or control the volume of background sounds.",
+      "dev": "Implement audio controls and levels that align with the guidelines.",
+      "qa": "Test for audio clarity and ensure that background audio does not drown out speech."
     },
     "thankfulNote": "Now I can focus on the content without cranking up my hearing aids. Sweet silence!"
   },
@@ -399,17 +399,17 @@
     "id": "1.4.8",
     "title": "Visual Presentation",
     "level": "Level AAA",
-    "Quote": "I asked for readable text, not a jigsaw puzzle of fonts and spacing!",
-    "Category": "Perceivable",
+    "quote": "I asked for readable text, not a jigsaw puzzle of fonts and spacing!",
+    "category": "Perceivable",
     "subCategory": "Distinguishable",
     "disability": "Cognitive Impairment",
     "suggestionForIllustration": "A character overwhelmed by a cluttered layout with multiple fonts and tight spacing.",
     "wcagDescription": "For the visual presentation of text, a mechanism is available to achieve the following: Foreground and background colors can be selected by the user; text is not justified; line spacing is at least 1.5 spaces; and more.",
     "teamRecommendations": {
-      "ProductManager": "Provide options for users to customize text appearance.",
-      "UX": "Design with readable fonts, sufficient spacing, and options for customization.",
-      "Developer": "Enable CSS customization for text properties like spacing, font, and color.",
-      "QA": "Test different combinations of font, spacing, and color to ensure readability."
+      "pm": "Provide options for users to customize text appearance.",
+      "ux": "Design with readable fonts, sufficient spacing, and options for customization.",
+      "dev": "Enable CSS customization for text properties like spacing, font, and color.",
+      "qa": "Test different combinations of font, spacing, and color to ensure readability."
     },
     "thankfulNote": "Ah, customization! Now I feel like the captain of my reading experience!"
   },
@@ -417,17 +417,17 @@
     "id": "2.1.1",
     "title": "Keyboard",
     "level": "Level A",
-    "Quote": "Mouse? Who needs a mouse when you've got keyboard kung fu skills?",
-    "Category": "Operable",
+    "quote": "Mouse? Who needs a mouse when you've got keyboard kung fu skills?",
+    "category": "Operable",
     "subCategory": "Keyboard Accessible",
     "disability": "Motor Impairments",
     "suggestionForIllustration": "A character performing complex tasks solely using the keyboard.",
     "wcagDescription": "All functionality of the content is operable through a keyboard interface without requiring specific timings for individual keystrokes.",
     "teamRecommendations": {
-      "ProductManager": "Ensure all features are accessible via keyboard navigation.",
-      "UX": "Design with keyboard shortcuts and focus indicators.",
-      "Developer": "Implement robust keyboard navigation and avoid using keyboard traps.",
-      "QA": "Test extensively for keyboard-only operation across various browsers."
+      "pm": "Ensure all features are accessible via keyboard navigation.",
+      "ux": "Design with keyboard shortcuts and focus indicators.",
+      "dev": "Implement robust keyboard navigation and avoid using keyboard traps.",
+      "qa": "Test extensively for keyboard-only operation across various browsers."
     },
     "thankfulNote": "You just made my keyboard the magic wand of the Internet. Hats off to you!"
   },
@@ -435,17 +435,17 @@
     "id": "2.1.2",
     "title": "No Keyboard Trap",
     "level": "Level A",
-    "Quote": "It's like I was stuck in a digital maze, and you handed me the escape key!",
-    "Category": "Operable",
+    "quote": "It's like I was stuck in a digital maze, and you handed me the escape key!",
+    "category": "Operable",
     "subCategory": "Keyboard Accessible",
     "disability": "Motor Impairments",
     "suggestionForIllustration": "A character celebrating after escaping a \"keyboard trap\" on a webpage.",
     "wcagDescription": "Keyboard focus should never get stuck on one element; it should always be possible to move it away using only the keyboard.",
     "teamRecommendations": {
-      "ProductManager": "Make sure keyboard users can navigate through all elements easily.",
-      "UX": "Indicate keyboard focus clearly and avoid elements that could trap keyboard navigation.",
-      "Developer": "Make sure to provide ways to exit menus or modals via keyboard commands.",
-      "QA": "Run comprehensive tests to make sure there are no keyboard traps."
+      "pm": "Make sure keyboard users can navigate through all elements easily.",
+      "ux": "Indicate keyboard focus clearly and avoid elements that could trap keyboard navigation.",
+      "dev": "Make sure to provide ways to exit menus or modals via keyboard commands.",
+      "qa": "Run comprehensive tests to make sure there are no keyboard traps."
     },
     "thankfulNote": "Thank you for giving me back control of my keyboard. You're a real lifesaver!"
   },
@@ -453,17 +453,17 @@
     "id": "2.1.3",
     "title": "Keyboard (No Exception)",
     "level": "Level AAA",
-    "Quote": "With your keyboard navigation, I'm feeling like a concert pianist but for web browsing!",
-    "Category": "Operable",
+    "quote": "With your keyboard navigation, I'm feeling like a concert pianist but for web browsing!",
+    "category": "Operable",
     "subCategory": "Keyboard Accessible",
     "disability": "Motor Impairments",
     "suggestionForIllustration": "A character joyfully navigating the web with a keyboard, perhaps comparing it to playing a piano.",
     "wcagDescription": "All functionality is operable through a keyboard interface.",
     "teamRecommendations": {
-      "ProductManager": "Plan for thorough keyboard accessibility across all features and components.",
-      "UX": "Design a keyboard-friendly interface that considers users who rely solely on the keyboard.",
-      "Developer": "Utilize semantic HTML and ARIA roles to enhance keyboard accessibility.",
-      "QA": "Test the interface rigorously to ensure 100% keyboard operability."
+      "pm": "Plan for thorough keyboard accessibility across all features and components.",
+      "ux": "Design a keyboard-friendly interface that considers users who rely solely on the keyboard.",
+      "dev": "Utilize semantic HTML and ARIA roles to enhance keyboard accessibility.",
+      "qa": "Test the interface rigorously to ensure 100% keyboard operability."
     },
     "thankfulNote": "With this level of keyboard compatibility, who needs a mouse? You guys rock!"
   },
@@ -471,17 +471,17 @@
     "id": "2.1.4",
     "title": "Character Key Shortcuts",
     "level": "Level A",
-    "Quote": "I accidentally launched the rockets when I was just trying to check my email! Maybe ease up on those shortcuts, eh?",
-    "Category": "Operable",
+    "quote": "I accidentally launched the rockets when I was just trying to check my email! Maybe ease up on those shortcuts, eh?",
+    "category": "Operable",
     "subCategory": "Keyboard Accessible",
     "disability": "Motor Impairments",
     "suggestionForIllustration": "A character accidentally activating a complex function while attempting to perform a simple task.",
     "wcagDescription": "If a keyboard shortcut is implemented using only letter, punctuation, number, or symbol characters, then at least one of the following is true: Turn off, Remap, Active only on focus.",
     "teamRecommendations": {
-      "ProductManager": "Review and minimize the use of keyboard shortcuts that could interfere with system controls or accessibility features.",
-      "UX": "Provide customization options for keyboard shortcuts and clearly document them.",
-      "Developer": "Implement keyboard shortcuts that can either be turned off, remapped, or are active only when focused on the component.",
-      "QA": "Test the shortcuts to ensure they do not conflict with existing accessibility features or system controls."
+      "pm": "Review and minimize the use of keyboard shortcuts that could interfere with system controls or accessibility features.",
+      "ux": "Provide customization options for keyboard shortcuts and clearly document them.",
+      "dev": "Implement keyboard shortcuts that can either be turned off, remapped, or are active only when focused on the component.",
+      "qa": "Test the shortcuts to ensure they do not conflict with existing accessibility features or system controls."
     },
     "thankfulNote": "Thanks for keeping my keyboard shortcuts sane. No accidental liftoffs for me!"
   },
@@ -489,17 +489,17 @@
     "id": "2.2.1",
     "title": "Timing Adjustable",
     "level": "Level A",
-    "Quote": "I might be slow, but that doesn't mean I'm not thorough. Stop rushing me!",
-    "Category": "Operable",
+    "quote": "I might be slow, but that doesn't mean I'm not thorough. Stop rushing me!",
+    "category": "Operable",
     "subCategory": "Enough Time",
     "disability": "Cognitive Impairments",
     "suggestionForIllustration": "A character stressed out by a ticking clock next to a web form.",
     "wcagDescription": "Users are given adequate time to read and use content, or can turn off, adjust, or extend timing.",
     "teamRecommendations": {
-      "ProductManager": "Plan for timing features that are flexible and adjustable to the user’s needs.",
-      "UX": "Design with options to pause, stop, or extend time limits wherever possible.",
-      "Developer": "Implement mechanisms to allow the user to control timing features.",
-      "QA": "Test the timing features under various scenarios to ensure they meet accessibility standards."
+      "pm": "Plan for timing features that are flexible and adjustable to the user’s needs.",
+      "ux": "Design with options to pause, stop, or extend time limits wherever possible.",
+      "dev": "Implement mechanisms to allow the user to control timing features.",
+      "qa": "Test the timing features under various scenarios to ensure they meet accessibility standards."
     },
     "thankfulNote": "Thanks for taking the pressure off. Now I can actually think before I click!"
   },
@@ -507,17 +507,17 @@
     "id": "2.2.2",
     "title": "Pause, Stop, Hide",
     "level": "Level A",
-    "Quote": "I don't need dancing pop-ups and blinking ads. My life's already a circus!",
-    "Category": "Operable",
+    "quote": "I don't need dancing pop-ups and blinking ads. My life's already a circus!",
+    "category": "Operable",
     "subCategory": "Enough Time",
     "disability": "Seizure Disorders",
     "suggestionForIllustration": "A character annoyed by moving and blinking content on a website.",
     "wcagDescription": "Users can pause, stop, or hide moving, blinking, scrolling, or auto-updating information.",
     "teamRecommendations": {
-      "ProductManager": "Evaluate the necessity of moving or auto-updating elements and prioritize user control.",
-      "UX": "Include clear and accessible controls for pausing, stopping, or hiding moving content.",
-      "Developer": "Implement straightforward controls for stopping animations and auto-updating elements.",
-      "QA": "Ensure that all moving or auto-updating elements can be controlled by the user."
+      "pm": "Evaluate the necessity of moving or auto-updating elements and prioritize user control.",
+      "ux": "Include clear and accessible controls for pausing, stopping, or hiding moving content.",
+      "dev": "Implement straightforward controls for stopping animations and auto-updating elements.",
+      "qa": "Ensure that all moving or auto-updating elements can be controlled by the user."
     },
     "thankfulNote": "Now that you've tamed the circus, I can focus on what matters. You're my ringmaster!"
   },
@@ -525,17 +525,17 @@
     "id": "2.2.3",
     "title": "No Timing",
     "level": "Level AAA",
-    "Quote": "The Internet's already a race; don't make it a timed obstacle course too!",
-    "Category": "Operable",
+    "quote": "The Internet's already a race; don't make it a timed obstacle course too!",
+    "category": "Operable",
     "subCategory": "Enough Time",
     "disability": "Cognitive Impairments",
     "suggestionForIllustration": "A character joyfully completing a task without being rushed by a timer.",
     "wcagDescription": "Timing is not an essential part of the event or activity presented by the content, except for non-interactive synchronized media and real-time events.",
     "teamRecommendations": {
-      "ProductManager": "Eliminate time-based actions unless they are absolutely necessary for the functionality or the content.",
-      "UX": "Design experiences that do not rely on timed interactions for accessibility.",
-      "Developer": "Avoid code that requires user input within a specific time frame, unless it's critical for real-time or synchronized media.",
-      "QA": "Check that the website or application does not enforce unnecessary time limits on user actions."
+      "pm": "Eliminate time-based actions unless they are absolutely necessary for the functionality or the content.",
+      "ux": "Design experiences that do not rely on timed interactions for accessibility.",
+      "dev": "Avoid code that requires user input within a specific time frame, unless it's critical for real-time or synchronized media.",
+      "qa": "Check that the website or application does not enforce unnecessary time limits on user actions."
     },
     "thankfulNote": "You’ve turned the race into a leisurely stroll. How refreshing!"
   },
@@ -543,17 +543,17 @@
     "id": "2.2.4",
     "title": "Interruptions",
     "level": "Level AAA",
-    "Quote": "If I wanted constant interruptions, I'd go back to working in an open office!",
-    "Category": "Operable",
+    "quote": "If I wanted constant interruptions, I'd go back to working in an open office!",
+    "category": "Operable",
     "subCategory": "Enough Time",
     "disability": "Attention-Deficit Disorder",
     "suggestionForIllustration": "A character trying to focus amid constant digital interruptions like pop-ups and notifications.",
     "wcagDescription": "Interruptions can be postponed or suppressed by the user, except interruptions involving an emergency.",
     "teamRecommendations": {
-      "ProductManager": "Minimize or give control over any interruptions like pop-ups, updates, or alerts.",
-      "UX": "Design a UI that lets users control or postpone interruptions.",
-      "Developer": "Provide settings for users to customize the frequency and type of interruptions.",
-      "QA": "Test the ability to postpone or turn off interruptions and make sure emergency alerts are an exception."
+      "pm": "Minimize or give control over any interruptions like pop-ups, updates, or alerts.",
+      "ux": "Design a UI that lets users control or postpone interruptions.",
+      "dev": "Provide settings for users to customize the frequency and type of interruptions.",
+      "qa": "Test the ability to postpone or turn off interruptions and make sure emergency alerts are an exception."
     },
     "thankfulNote": "Ah, peace at last! Now I can work—or procrastinate—in tranquility!"
   },
@@ -561,17 +561,17 @@
     "id": "2.2.5",
     "title": "Re-authenticating",
     "level": "Level AAA",
-    "Quote": "If you log me out every 5 minutes, I swear I'll start writing my passwords on sticky notes!",
-    "Category": "Operable",
+    "quote": "If you log me out every 5 minutes, I swear I'll start writing my passwords on sticky notes!",
+    "category": "Operable",
     "subCategory": "Enough Time",
     "disability": "Memory Impairments",
     "suggestionForIllustration": "A character frustrated with frequent login prompts, surrounded by sticky notes with passwords.",
     "wcagDescription": "When an authenticated session expires, the user can continue the activity without loss of data after re-authenticating.",
     "teamRecommendations": {
-      "ProductManager": "Ensure session timeouts provide a seamless way to re-authenticate without data loss.",
-      "UX": "Design user-friendly re-authentication processes that retain the user’s previous state.",
-      "Developer": "Implement session management that allows for easy re-authentication without loss of data.",
-      "QA": "Test to make sure that re-authenticating does not result in the loss of user data or state."
+      "pm": "Ensure session timeouts provide a seamless way to re-authenticate without data loss.",
+      "ux": "Design user-friendly re-authentication processes that retain the user’s previous state.",
+      "dev": "Implement session management that allows for easy re-authentication without loss of data.",
+      "qa": "Test to make sure that re-authenticating does not result in the loss of user data or state."
     },
     "thankfulNote": "Thank you for saving my work and my sanity. No more password post-its!"
   },
@@ -579,17 +579,17 @@
     "id": "2.2.6",
     "title": "Timeouts",
     "level": "Level AAA",
-    "Quote": "I stepped away for a coffee and came back to a locked vault. Let me know if you're timing me out!",
-    "Category": "Operable",
+    "quote": "I stepped away for a coffee and came back to a locked vault. Let me know if you're timing me out!",
+    "category": "Operable",
     "subCategory": "Enough Time",
     "disability": "Various, including mobility and cognitive impairments",
     "suggestionForIllustration": "A character coming back to a computer with a \"session timed out\" message, holding a coffee cup in frustration.",
     "wcagDescription": "Users are warned of the duration of any user inactivity that could cause data loss, unless the data is preserved for more than 20 hours when the user does not take any actions.",
     "teamRecommendations": {
-      "ProductManager": "Clearly communicate any timeouts that might result in data loss.",
-      "UX": "Design notifications or alerts to inform users about the session timeout.",
-      "Developer": "Implement mechanisms to warn the user prior to timeouts and preserve data whenever possible.",
-      "QA": "Test for session timeout warnings and data preservation across different scenarios."
+      "pm": "Clearly communicate any timeouts that might result in data loss.",
+      "ux": "Design notifications or alerts to inform users about the session timeout.",
+      "dev": "Implement mechanisms to warn the user prior to timeouts and preserve data whenever possible.",
+      "qa": "Test for session timeout warnings and data preservation across different scenarios."
     },
     "thankfulNote": "Now I can enjoy my coffee and still know what's going on. Cheers!"
   },
@@ -597,17 +597,17 @@
     "id": "2.3.1",
     "title": "Three Flashes or Below Threshold",
     "level": "Level A",
-    "Quote": "Wow, that flashing ad is like a rave party for my eyes. Can we not?",
-    "Category": "Operable",
+    "quote": "Wow, that flashing ad is like a rave party for my eyes. Can we not?",
+    "category": "Operable",
     "subCategory": "Seizures and Physical Reactions",
     "disability": "Photosensitive Epilepsy",
     "suggestionForIllustration": "A character shielding their eyes from a flashing ad on a website.",
     "wcagDescription": "Web pages do not contain anything that flashes more than three times in any one-second period.",
     "teamRecommendations": {
-      "ProductManager": "Avoid incorporating flashing elements into the product's design.",
-      "UX": "Design static, non-flashing user interface elements for a more inclusive experience.",
-      "Developer": "Ensure that no elements on the page flash more than three times in a one-second period.",
-      "QA": "Conduct tests to identify and eliminate any flashing elements that exceed the threshold."
+      "pm": "Avoid incorporating flashing elements into the product's design.",
+      "ux": "Design static, non-flashing user interface elements for a more inclusive experience.",
+      "dev": "Ensure that no elements on the page flash more than three times in a one-second period.",
+      "qa": "Conduct tests to identify and eliminate any flashing elements that exceed the threshold."
     },
     "thankfulNote": "Thanks for cutting the disco lights. My eyes and my brain appreciate it!"
   },
@@ -615,17 +615,17 @@
     "id": "2.3.2",
     "title": "Three Flashes",
     "level": "Level AAA",
-    "Quote": "Seriously, I'm here for information, not a light show!",
-    "Category": "Operable",
+    "quote": "Seriously, I'm here for information, not a light show!",
+    "category": "Operable",
     "subCategory": "Seizures and Physical Reactions",
     "disability": "Photosensitive Epilepsy",
     "suggestionForIllustration": "A character annoyed by incessant flashing elements, possibly wearing sunglasses indoors.",
     "wcagDescription": "Web pages do not contain anything that flashes more than three times in any one-second period or the flash is below the general flash and red flash thresholds.",
     "teamRecommendations": {
-      "ProductManager": "Double-check to ensure no flashing elements are in the content or design.",
-      "UX": "Opt for user interface design that excludes any flashing elements whatsoever.",
-      "Developer": "Code to strictly limit any flashing elements and confirm they meet AAA standards.",
-      "QA": "Perform rigorous tests to completely rule out any elements that flash more than three times in a one-second period."
+      "pm": "Double-check to ensure no flashing elements are in the content or design.",
+      "ux": "Opt for user interface design that excludes any flashing elements whatsoever.",
+      "dev": "Code to strictly limit any flashing elements and confirm they meet AAA standards.",
+      "qa": "Perform rigorous tests to completely rule out any elements that flash more than three times in a one-second period."
     },
     "thankfulNote": "Kudos for keeping it chill and flash-free. No sunglasses needed!"
   },
@@ -633,17 +633,17 @@
     "id": "2.3.3",
     "title": "Animation from Interactions",
     "level": "Level AAA",
-    "Quote": "Animations pop up like whack-a-moles with every click—give me a break, or at least a 'no animation' mode!",
-    "Category": "Operable",
+    "quote": "Animations pop up like whack-a-moles with every click—give me a break, or at least a 'no animation' mode!",
+    "category": "Operable",
     "subCategory": "Seizures and Physical Reactions",
     "disability": "Photosensitive Epilepsy, Vestibular Disorders",
     "suggestionForIllustration": "A character startled by unexpected animations after clicking a button on a website.",
     "wcagDescription": "Motion animation triggered by interaction can be disabled unless the animation is essential to the functionality or the information being conveyed.",
     "teamRecommendations": {
-      "ProductManager": "Implement a system setting to disable animations for users who are sensitive to motion.",
-      "UX": "Design interfaces that minimize unnecessary animations and provide options to turn them off.",
-      "Developer": "Create preferences in the site's settings that allow users to reduce or eliminate motion animation.",
-      "QA": "Test the website with animations turned off to ensure that all content remains accessible and functional."
+      "pm": "Implement a system setting to disable animations for users who are sensitive to motion.",
+      "ux": "Design interfaces that minimize unnecessary animations and provide options to turn them off.",
+      "dev": "Create preferences in the site's settings that allow users to reduce or eliminate motion animation.",
+      "qa": "Test the website with animations turned off to ensure that all content remains accessible and functional."
     },
     "thankfulNote": "Cheers for letting me take control of my screen. With animations off, it's smooth surfing all the way!"
   },
@@ -651,17 +651,17 @@
     "id": "2.4.1",
     "title": "Bypass Blocks",
     "level": "Level A",
-    "Quote": "Skip to content? Yes, please! I didn't come here for a scenic tour of your navigation.",
-    "Category": "Operable",
+    "quote": "Skip to content? Yes, please! I didn't come here for a scenic tour of your navigation.",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Blindness, Mobility Impairments",
     "suggestionForIllustration": "A character using a screen reader, pleased to find a \"Skip to content\" link at the top of the webpage.",
     "wcagDescription": "A method is available to bypass blocks of content that are repeated on multiple web pages.",
     "teamRecommendations": {
-      "ProductManager": "Implement features that allow users to skip repetitive content.",
-      "UX": "Design \"Skip to content\" or similar links at the beginning of pages to aid in navigation.",
-      "Developer": "Include mechanisms such as anchor links or skip links to bypass repetitive blocks of content.",
-      "QA": "Ensure that the \"Skip to content\" functionality works as intended across different devices and browsers."
+      "pm": "Implement features that allow users to skip repetitive content.",
+      "ux": "Design \"Skip to content\" or similar links at the beginning of pages to aid in navigation.",
+      "dev": "Include mechanisms such as anchor links or skip links to bypass repetitive blocks of content.",
+      "qa": "Ensure that the \"Skip to content\" functionality works as intended across different devices and browsers."
     },
     "thankfulNote": "Now I can get to the good stuff without the detours. You're my GPS for the web!"
   },
@@ -669,17 +669,17 @@
     "id": "2.4.2",
     "title": "Page Titled",
     "level": "Level A",
-    "Quote": "A page without a title is like a book without a cover. How am I supposed to know what it's about?",
-    "Category": "Operable",
+    "quote": "A page without a title is like a book without a cover. How am I supposed to know what it's about?",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Blindness, Cognitive Impairments",
     "suggestionForIllustration": "A character puzzled by a blank book cover, drawing a parallel to untitled web pages.",
     "wcagDescription": "Web pages have titles that describe topic or purpose.",
     "teamRecommendations": {
-      "ProductManager": "Ensure that every page has a descriptive title that is relevant to its content.",
-      "UX": "Design titles that are clear, concise, and effectively communicate the page’s purpose.",
-      "Developer": "Properly implement HTML <title> tags for each page, making sure they accurately describe the content.",
-      "QA": "Verify that all pages have descriptive and accurate titles during testing."
+      "pm": "Ensure that every page has a descriptive title that is relevant to its content.",
+      "ux": "Design titles that are clear, concise, and effectively communicate the page’s purpose.",
+      "dev": "Properly implement HTML <title> tags for each page, making sure they accurately describe the content.",
+      "qa": "Verify that all pages have descriptive and accurate titles during testing."
     },
     "thankfulNote": "Thank you for labeling your web pages! Now I can navigate your site like a well-organized library!"
   },
@@ -687,17 +687,17 @@
     "id": "2.4.3",
     "title": "Focus Order",
     "level": "Level A",
-    "Quote": "It's like a game of hopscotch—my focus jumps from here to there. Can we make it a straight line, please?",
-    "Category": "Operable",
+    "quote": "It's like a game of hopscotch—my focus jumps from here to there. Can we make it a straight line, please?",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Blindness, Motor Skill Disabilities",
     "suggestionForIllustration": "A character struggling with a disorganized focus path, depicted as a game of hopscotch on a computer screen.",
     "wcagDescription": "If a web page can be navigated sequentially and the navigation sequences affect meaning or operation, focusable components receive focus in an order that preserves meaning and operability.",
     "teamRecommendations": {
-      "ProductManager": "Ensure logical navigation and focus order.",
-      "UX": "Design the user interface so that the focus order is consistent and intuitive.",
-      "Developer": "Code the focus order to follow logical sequencing and flow.",
-      "QA": "Test to ensure focus order makes sense and does not disrupt user experience."
+      "pm": "Ensure logical navigation and focus order.",
+      "ux": "Design the user interface so that the focus order is consistent and intuitive.",
+      "dev": "Code the focus order to follow logical sequencing and flow.",
+      "qa": "Test to ensure focus order makes sense and does not disrupt user experience."
     },
     "thankfulNote": "Now I can move through your site like reading a good book—start to finish. Thanks!"
   },
@@ -705,17 +705,17 @@
     "id": "2.4.4",
     "title": "Link Purpose (In Context)",
     "level": "Level A",
-    "Quote": "'Click here'? Click where? And for what? Come on, let's be a little more descriptive!",
-    "Category": "Operable",
+    "quote": "'Click here'? Click where? And for what? Come on, let's be a little more descriptive!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Blindness, Cognitive Impairments",
     "suggestionForIllustration": "A character puzzled by vague link text like \"Click Here,\" \"Read More,\" etc.",
     "wcagDescription": "The purpose of each link can be determined from the link text alone or from the link text together with its programmatically determined link context.",
     "teamRecommendations": {
-      "ProductManager": "Specify guidelines for creating descriptive link text.",
-      "UX": "Design links with text that clearly indicates the link's purpose.",
-      "Developer": "Use descriptive and meaningful text for hyperlinks.",
-      "QA": "Check that all links have text which clearly explains their purpose."
+      "pm": "Specify guidelines for creating descriptive link text.",
+      "ux": "Design links with text that clearly indicates the link's purpose.",
+      "dev": "Use descriptive and meaningful text for hyperlinks.",
+      "qa": "Check that all links have text which clearly explains their purpose."
     },
     "thankfulNote": "Kudos for making your links self-explanatory. Now I know where I'm going before I get there!"
   },
@@ -723,17 +723,17 @@
     "id": "2.4.5",
     "title": "Multiple Ways",
     "level": "Level AA",
-    "Quote": "One path to the treasure? Nah, I need options! Show me different ways to get to the gold!",
-    "Category": "Operable",
+    "quote": "One path to the treasure? Nah, I need options! Show me different ways to get to the gold!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Blindness, Cognitive Impairments",
     "suggestionForIllustration": "A character at a fork in the road, delighted to find multiple signposts pointing to the same destination.",
     "wcagDescription": "More than one way is available to locate a web page within a set of web pages except where the web page is the result of, or a step in, a process.",
     "teamRecommendations": {
-      "ProductManager": "Incorporate multiple navigation options, such as site maps, search functions, and breadcrumb trails.",
-      "UX": "Design the interface to offer various pathways to the same information.",
-      "Developer": "Implement multiple navigational mechanisms like site maps, indexes, and search functionalities.",
-      "QA": "Test to ensure there are multiple, functional ways to navigate to important content."
+      "pm": "Incorporate multiple navigation options, such as site maps, search functions, and breadcrumb trails.",
+      "ux": "Design the interface to offer various pathways to the same information.",
+      "dev": "Implement multiple navigational mechanisms like site maps, indexes, and search functionalities.",
+      "qa": "Test to ensure there are multiple, functional ways to navigate to important content."
     },
     "thankfulNote": "Thanks for the scenic routes! Now I get to choose my own adventure."
   },
@@ -741,17 +741,17 @@
     "id": "2.4.6",
     "title": "Headings and Labels",
     "level": "Level AA",
-    "Quote": "Headings? Labels? Give 'em to me! It's like speed reading for my screen reader.",
-    "Category": "Operable",
+    "quote": "Headings? Labels? Give 'em to me! It's like speed reading for my screen reader.",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Blindness, Cognitive Impairments",
     "suggestionForIllustration": "A character with a screen reader, quickly navigating through headings and labels.",
     "wcagDescription": "Headings and labels describe topic or purpose.",
     "teamRecommendations": {
-      "ProductManager": "Ensure that all headings and labels are descriptive and relevant.",
-      "UX": "Use headings and labels to clearly demarcate sections and topics.",
-      "Developer": "Utilize semantic HTML for headings (<h1>, <h2>, etc.) and labels to facilitate screen reader navigation.",
-      "QA": "Test to ensure all headings and labels are accurate, and properly structured for screen reader navigation."
+      "pm": "Ensure that all headings and labels are descriptive and relevant.",
+      "ux": "Use headings and labels to clearly demarcate sections and topics.",
+      "dev": "Utilize semantic HTML for headings (<h1>, <h2>, etc.) and labels to facilitate screen reader navigation.",
+      "qa": "Test to ensure all headings and labels are accurate, and properly structured for screen reader navigation."
     },
     "thankfulNote": "You've made my screen reader's job easy and my life easier. I can navigate your site like a pro!"
   },
@@ -759,17 +759,17 @@
     "id": "2.4.7",
     "title": "Focus Visible",
     "level": "Level AA",
-    "Quote": "Where's Waldo? More like, where's my focus? Show me where I am!",
-    "Category": "Operable",
+    "quote": "Where's Waldo? More like, where's my focus? Show me where I am!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Visual Impairments, Cognitive Impairments",
     "suggestionForIllustration": "A character squinting at a computer screen, trying to find their focus cursor, with a \"Where's Waldo?\" style backdrop.",
     "wcagDescription": "Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible.",
     "teamRecommendations": {
-      "ProductManager": "Prioritize visibility of keyboard focus throughout the site.",
-      "UX": "Design distinct focus states that are easily discernible.",
-      "Developer": "Implement visible focus indicators using CSS and other web technologies.",
-      "QA": "Check to make sure that focus indicators are visible in all states and components."
+      "pm": "Prioritize visibility of keyboard focus throughout the site.",
+      "ux": "Design distinct focus states that are easily discernible.",
+      "dev": "Implement visible focus indicators using CSS and other web technologies.",
+      "qa": "Check to make sure that focus indicators are visible in all states and components."
     },
     "thankfulNote": "Thank you for making my keyboard focus stand out! Now, navigating your site is like a game I can actually win!"
   },
@@ -777,17 +777,17 @@
     "id": "2.4.8",
     "title": "Location",
     "level": "Level AAA",
-    "Quote": "I need a map! Or at least a 'You Are Here' sign. Help me figure out where I am on your site!",
-    "Category": "Operable",
+    "quote": "I need a map! Or at least a 'You Are Here' sign. Help me figure out where I am on your site!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Cognitive Impairments, Visual Impairments",
     "suggestionForIllustration": "A character lost in a maze-like website, wishing for a \"You Are Here\" sign.",
     "wcagDescription": "Information about the user's location within a set of web pages is available.",
     "teamRecommendations": {
-      "ProductManager": "Include features like breadcrumb trails or highlighted menu items to indicate location.",
-      "UX": "Design interface elements that give users a sense of their location within the site.",
-      "Developer": "Incorporate breadcrumbs, highlight active menu items, or use other methods to indicate user location.",
-      "QA": "Ensure that location indicators function properly and are easily understandable."
+      "pm": "Include features like breadcrumb trails or highlighted menu items to indicate location.",
+      "ux": "Design interface elements that give users a sense of their location within the site.",
+      "dev": "Incorporate breadcrumbs, highlight active menu items, or use other methods to indicate user location.",
+      "qa": "Ensure that location indicators function properly and are easily understandable."
     },
     "thankfulNote": "Now that I know where I am, I can actually enjoy the journey. It's like having a compass for the web!"
   },
@@ -795,17 +795,17 @@
     "id": "2.4.9",
     "title": "Link Purpose (Link Only)",
     "level": "Level AAA",
-    "Quote": "'Click Here' is like saying 'Eat This' without telling me what it is. I need to know what I'm getting into!",
-    "Category": "Operable",
+    "quote": "'Click Here' is like saying 'Eat This' without telling me what it is. I need to know what I'm getting into!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Visual Impairments, Cognitive Impairments",
     "suggestionForIllustration": "A character suspiciously hovering over a mouse with a link reading \"Click Here,\" clearly wanting more context.",
     "wcagDescription": "A mechanism is available to allow the purpose of each link to be identified from link text alone, except where the purpose of the link would be ambiguous to users in general.",
     "teamRecommendations": {
-      "ProductManager": "Set clear guidelines for unambiguous link text.",
-      "UX": "Use descriptive and straightforward language for link text.",
-      "Developer": "Adopt semantic HTML and ARIA roles to clarify link purpose.",
-      "QA": "Ensure each link's text or accompanying context makes its purpose clear."
+      "pm": "Set clear guidelines for unambiguous link text.",
+      "ux": "Use descriptive and straightforward language for link text.",
+      "dev": "Adopt semantic HTML and ARIA roles to clarify link purpose.",
+      "qa": "Ensure each link's text or accompanying context makes its purpose clear."
     },
     "thankfulNote": "You've removed the mystery, and now I'm clicking with confidence. Thank you!"
   },
@@ -813,17 +813,17 @@
     "id": "2.4.10",
     "title": "Section Headings",
     "level": "Level AAA",
-    "Quote": "Think of section headings like road signs. I need to know where each turn leads!",
-    "Category": "Operable",
+    "quote": "Think of section headings like road signs. I need to know where each turn leads!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Blindness, Cognitive Impairments",
     "suggestionForIllustration": "A character navigating a webpage with clear road signs as section headings.",
     "wcagDescription": "Section headings are used to organize the content.",
     "teamRecommendations": {
-      "ProductManager": "Ensure content is well-organized with clear and descriptive section headings.",
-      "UX": "Design section headings that summarize the content effectively.",
-      "Developer": "Use semantic HTML tags like <h1>, <h2>, etc., to indicate section headings.",
-      "QA": "Verify that section headings are implemented and accessible through screen readers."
+      "pm": "Ensure content is well-organized with clear and descriptive section headings.",
+      "ux": "Design section headings that summarize the content effectively.",
+      "dev": "Use semantic HTML tags like <h1>, <h2>, etc., to indicate section headings.",
+      "qa": "Verify that section headings are implemented and accessible through screen readers."
     },
     "thankfulNote": "It's like driving on a well-marked highway. I know exactly where I'm going, and it feels great!"
   },
@@ -831,17 +831,17 @@
     "id": "2.4.11",
     "title": "Focus Not Obscured (Minimum)",
     "level": "Level AA",
-    "Quote": "Playing peek-a-boo with focused elements isn't fun. Keep my focus visible!",
-    "Category": "Operable",
+    "quote": "Playing peek-a-boo with focused elements isn't fun. Keep my focus visible!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Visual Impairments, Motor Impairments",
     "suggestionForIllustration": "A character trying to click on a button that's partially hidden behind another window or overlay, looking frustrated.",
     "wcagDescription": "Ensures that when a user interface component receives keyboard focus, it is not completely obscured by other content, maintaining its visibility for users.",
     "teamRecommendations": {
-      "ProductManager": "Design interfaces to prevent essential elements from being obscured when they receive focus.",
-      "UX": "Consider the placement and visibility of interactive elements to ensure they remain visible when focused.",
-      "Developer": "Implement UI designs where focused elements are not hidden by overlays or other content.",
-      "QA": "Test with keyboard navigation to ensure that focused elements are always at least partially visible."
+      "pm": "Design interfaces to prevent essential elements from being obscured when they receive focus.",
+      "ux": "Consider the placement and visibility of interactive elements to ensure they remain visible when focused.",
+      "dev": "Implement UI designs where focused elements are not hidden by overlays or other content.",
+      "qa": "Test with keyboard navigation to ensure that focused elements are always at least partially visible."
     },
     "thankfulNote": "Thanks for keeping my digital path clear! Now I can navigate without guesswork."
   },
@@ -849,17 +849,17 @@
     "id": "2.4.12",
     "title": "Focus Not Obscured (Enhanced)",
     "level": "Level AAA",
-    "Quote": "I need clear sightlines to navigate—ensure nothing's hiding my focus, not even a pixel!",
-    "Category": "Operable",
+    "quote": "I need clear sightlines to navigate—ensure nothing's hiding my focus, not even a pixel!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Visual Impairments, Motor Impairments",
     "suggestionForIllustration": "A clear path illuminated through an overlay, highlighting a button in focus, with everything else dimmed out.",
     "wcagDescription": "When a user interface component receives keyboard focus, no part of it is obscured by other content, ensuring complete visibility of the focused element.",
     "teamRecommendations": {
-      "ProductManager": "Aim for the highest level of clarity by ensuring that no focused component is partially or fully obscured.",
-      "UX": "Design the user experience to keep the focus area completely unobscured, regardless of the site's dynamic content or overlays.",
-      "Developer": "Develop web pages so that focused elements are always fully visible and not covered by any author-created content.",
-      "QA": "Conduct thorough accessibility testing to ensure that when elements receive focus, they are entirely visible."
+      "pm": "Aim for the highest level of clarity by ensuring that no focused component is partially or fully obscured.",
+      "ux": "Design the user experience to keep the focus area completely unobscured, regardless of the site's dynamic content or overlays.",
+      "dev": "Develop web pages so that focused elements are always fully visible and not covered by any author-created content.",
+      "qa": "Conduct thorough accessibility testing to ensure that when elements receive focus, they are entirely visible."
     },
     "thankfulNote": "Spotlight on what matters—my focus. Thanks for making sure nothing gets in its way, not even for a second!"
   },
@@ -867,17 +867,17 @@
     "id": "2.4.13",
     "title": "Focus Appearance",
     "level": "Level AAA",
-    "Quote": "Make the spotlight on the screen as clear as the one on Broadway; my focus deserves to stand out!",
-    "Category": "Operable",
+    "quote": "Make the spotlight on the screen as clear as the one on Broadway; my focus deserves to stand out!",
+    "category": "Operable",
     "subCategory": "Navigable",
     "disability": "Visual Impairments",
     "suggestionForIllustration": "A keyboard key spotlighted on a stage, with a bright outline that contrasts sharply against the surrounding darkness.",
     "wcagDescription": "When the keyboard focus indicator is visible, it has a high contrast ratio and covers a large area, making it unmistakable when elements are focused.",
     "teamRecommendations": {
-      "ProductManager": "Ensure that the focus indicator is prominent and easy to distinguish when elements are selected.",
-      "UX": "Design focus indicators that are large and have a high contrast ratio to be easily noticed.",
-      "Developer": "Implement focus styles that exceed the minimum contrast ratio and cover an area at least as large as a 2 CSS pixel thick perimeter of the unfocused component.",
-      "QA": "Test the focus indicator under various conditions to ensure it remains visible and distinct from its unfocused state."
+      "pm": "Ensure that the focus indicator is prominent and easy to distinguish when elements are selected.",
+      "ux": "Design focus indicators that are large and have a high contrast ratio to be easily noticed.",
+      "dev": "Implement focus styles that exceed the minimum contrast ratio and cover an area at least as large as a 2 CSS pixel thick perimeter of the unfocused component.",
+      "qa": "Test the focus indicator under various conditions to ensure it remains visible and distinct from its unfocused state."
     },
     "thankfulNote": "Now when I tab through your site, the focus jumps out at me, clear and bold. It's like having front-row seats to the action of the web. Thank you for the star treatment!"
   },
@@ -885,17 +885,17 @@
     "id": "3.1.1",
     "title": "Language of Page",
     "level": "Level A",
-    "Quote": "Ahoy matey! Why's this site talkin' like a pirate? Set the language, will ya?",
-    "Category": "Understandable",
+    "quote": "Ahoy matey! Why's this site talkin' like a pirate? Set the language, will ya?",
+    "category": "Understandable",
     "subCategory": "Readable",
     "disability": "Non-native Speakers, Cognitive Impairments",
     "suggestionForIllustration": "A character confused by a webpage that's displayed in \"Pirate Speak.\"",
     "wcagDescription": "The default human language of each web page can be programmatically determined.",
     "teamRecommendations": {
-      "ProductManager": "Specify the default language of the site in the project requirements.",
-      "UX": "Ensure UI text adheres to the specified language and locale settings.",
-      "Developer": "Set the lang attribute on the HTML element to indicate the default language.",
-      "QA": "Test that the default language is programmatically determinable and matches user expectations."
+      "pm": "Specify the default language of the site in the project requirements.",
+      "ux": "Ensure UI text adheres to the specified language and locale settings.",
+      "dev": "Set the lang attribute on the HTML element to indicate the default language.",
+      "qa": "Test that the default language is programmatically determinable and matches user expectations."
     },
     "thankfulNote": "Arr, thanks for speakin' my language! Now I don't need a translator to find the X marks the spot!"
   },
@@ -903,17 +903,17 @@
     "id": "3.1.2",
     "title": "Language of Parts",
     "level": "Level AA",
-    "Quote": "Don't switch languages on me mid-sentence! My brain isn't a real-time translator!",
-    "Category": "Understandable",
+    "quote": "Don't switch languages on me mid-sentence! My brain isn't a real-time translator!",
+    "category": "Understandable",
     "subCategory": "Readable",
     "disability": "Non-native Speakers, Cognitive Impairments",
     "suggestionForIllustration": "A character juggling dictionaries of different languages while reading a webpage.",
     "wcagDescription": "The human language of each passage or phrase in the content can be programmatically determined except for proper names, technical terms, words of indeterminate language, and words or phrases that have become part of the vernacular of the immediately surrounding text.",
     "teamRecommendations": {
-      "ProductManager": "Indicate requirements for multi-language support if needed.",
-      "UX": "Design the UI to be consistent in language, or clearly indicate language switches.",
-      "Developer": "Use the lang attribute to mark up sections of text that are in a different language.",
-      "QA": "Test that language changes within content are accurately marked and detectable."
+      "pm": "Indicate requirements for multi-language support if needed.",
+      "ux": "Design the UI to be consistent in language, or clearly indicate language switches.",
+      "dev": "Use the lang attribute to mark up sections of text that are in a different language.",
+      "qa": "Test that language changes within content are accurately marked and detectable."
     },
     "thankfulNote": "Thank you for keeping it consistent. Now I can actually understand what I'm reading!"
   },
@@ -921,17 +921,17 @@
     "id": "3.1.3",
     "title": "Unusual Words",
     "level": "Level AAA",
-    "Quote": "What do you mean by 'propinquity'? Speak English, website!",
-    "Category": "Understandable",
+    "quote": "What do you mean by 'propinquity'? Speak English, website!",
+    "category": "Understandable",
     "subCategory": "Readable",
     "disability": "Cognitive Impairments, Non-native Speakers",
     "suggestionForIllustration": "A character scratching their head, bewildered by complex jargon on a webpage.",
     "wcagDescription": "A mechanism is available for identifying specific definitions of words or phrases used in an unusual or restricted way.",
     "teamRecommendations": {
-      "ProductManager": "Include a glossary or tooltips for unusual or technical terms.",
-      "UX": "Design easily accessible ways to get definitions, such as hover tooltips or links to a glossary.",
-      "Developer": "Implement tooltips or hyperlinks for words that are unusual or used in a restricted manner.",
-      "QA": "Verify that all unusual or technical terms have definitions or explanations that are easily accessible."
+      "pm": "Include a glossary or tooltips for unusual or technical terms.",
+      "ux": "Design easily accessible ways to get definitions, such as hover tooltips or links to a glossary.",
+      "dev": "Implement tooltips or hyperlinks for words that are unusual or used in a restricted manner.",
+      "qa": "Verify that all unusual or technical terms have definitions or explanations that are easily accessible."
     },
     "thankfulNote": "Thanks for the vocab lesson! Now I don't feel like I'm reading an alien language."
   },
@@ -939,17 +939,17 @@
     "id": "3.1.4",
     "title": "Abbreviations",
     "level": "Level AAA",
-    "Quote": "IDK what 'IDK' means! Spell it out for me!",
-    "Category": "Understandable",
+    "quote": "IDK what 'IDK' means! Spell it out for me!",
+    "category": "Understandable",
     "subCategory": "Readable",
     "disability": "Cognitive Impairments, Non-native Speakers",
     "suggestionForIllustration": "A character puzzling over various abbreviations scattered around a webpage.",
     "wcagDescription": "A mechanism for identifying the expanded form or meaning of abbreviations is provided.",
     "teamRecommendations": {
-      "ProductManager": "Define abbreviations the first time they appear on a page or provide a reference.",
-      "UX": "Use tooltips or inline explanations for abbreviations.",
-      "Developer": "Implement <abbr> tags and tooltips to explain abbreviations.",
-      "QA": "Ensure that all abbreviations have tooltips or explanations."
+      "pm": "Define abbreviations the first time they appear on a page or provide a reference.",
+      "ux": "Use tooltips or inline explanations for abbreviations.",
+      "dev": "Implement <abbr> tags and tooltips to explain abbreviations.",
+      "qa": "Ensure that all abbreviations have tooltips or explanations."
     },
     "thankfulNote": "LOL, now I finally know what 'IDK' means! You've demystified the Internet for me!"
   },
@@ -957,17 +957,17 @@
     "id": "3.1.5",
     "title": "Reading Level",
     "level": "Level AAA",
-    "Quote": "Is this a website or a PhD dissertation? Simplify the language!",
-    "Category": "Understandable",
+    "quote": "Is this a website or a PhD dissertation? Simplify the language!",
+    "category": "Understandable",
     "subCategory": "Readable",
     "disability": "Cognitive Impairments, Non-native Speakers",
     "suggestionForIllustration": "A character overwhelmed by a webpage filled with academic jargon and complicated sentences.",
     "wcagDescription": "When text requires reading ability more advanced than the lower secondary education level, supplemental content or an alternative version is available.",
     "teamRecommendations": {
-      "ProductManager": "Provide alternative versions or supplemental content for advanced text.",
-      "UX": "Include simpler explanations or offer a 'plain language' option for complex content.",
-      "Developer": "Implement mechanisms like a toggle button for switching between advanced and simpler text.",
-      "QA": "Check that alternative versions or supplementary content are functional and easily accessible."
+      "pm": "Provide alternative versions or supplemental content for advanced text.",
+      "ux": "Include simpler explanations or offer a 'plain language' option for complex content.",
+      "dev": "Implement mechanisms like a toggle button for switching between advanced and simpler text.",
+      "qa": "Check that alternative versions or supplementary content are functional and easily accessible."
     },
     "thankfulNote": "Ah, much better. Now it's like talking to a friend, not attending a lecture. Thanks!"
   },
@@ -975,17 +975,17 @@
     "id": "3.1.6",
     "title": "Pronunciation",
     "level": "Level AAA",
-    "Quote": "I can't pronounce 'synecdoche.' How about a phonetic guide, huh?",
-    "Category": "Understandable",
+    "quote": "I can't pronounce 'synecdoche.' How about a phonetic guide, huh?",
+    "category": "Understandable",
     "subCategory": "Readable",
     "disability": "Cognitive Impairments, Speech Impairments",
     "suggestionForIllustration": "A character mumbling and stumbling over difficult words, with a thought bubble asking for help.",
     "wcagDescription": "A mechanism is provided for identifying the pronunciation of words where meaning is ambiguous without knowing the pronunciation.",
     "teamRecommendations": {
-      "ProductManager": "Include pronunciation guides for complex or ambiguous words.",
-      "UX": "Design tooltips or inline text with phonetic spelling for difficult words.",
-      "Developer": "Utilize tooltips or specific HTML tags to provide pronunciation guides.",
-      "QA": "Confirm that pronunciation guides are available and functional for ambiguous terms."
+      "pm": "Include pronunciation guides for complex or ambiguous words.",
+      "ux": "Design tooltips or inline text with phonetic spelling for difficult words.",
+      "dev": "Utilize tooltips or specific HTML tags to provide pronunciation guides.",
+      "qa": "Confirm that pronunciation guides are available and functional for ambiguous terms."
     },
     "thankfulNote": "Now I'm not just reading; I'm speaking like an orator. You've made words less scary!"
   },
@@ -993,17 +993,17 @@
     "id": "3.2.1",
     "title": "On Focus",
     "level": "Level A",
-    "Quote": "Whoa, what just happened? I only tabbed in!",
-    "Category": "Understandable",
+    "quote": "Whoa, what just happened? I only tabbed in!",
+    "category": "Understandable",
     "subCategory": "Predictable",
     "disability": "Visual Impairments, Cognitive Impairments",
     "suggestionForIllustration": "A character shocked as a popup appears just by focusing on an element with a keyboard.",
     "wcagDescription": "When any component receives focus, it does not initiate a change of context.",
     "teamRecommendations": {
-      "ProductManager": "Avoid actions that would disorient the user when they focus on elements.",
-      "UX": "Design interfaces that don't change context when a user simply focuses on a component.",
-      "Developer": "Make sure no scripts change the context when elements receive focus.",
-      "QA": "Test navigation through keyboard focus to ensure it doesn't disrupt the user experience."
+      "pm": "Avoid actions that would disorient the user when they focus on elements.",
+      "ux": "Design interfaces that don't change context when a user simply focuses on a component.",
+      "dev": "Make sure no scripts change the context when elements receive focus.",
+      "qa": "Test navigation through keyboard focus to ensure it doesn't disrupt the user experience."
     },
     "thankfulNote": "Thanks for not throwing curveballs at me. Now, navigating your site is a breeze!"
   },
@@ -1011,17 +1011,17 @@
     "id": "3.2.2",
     "title": "On Input",
     "level": "Level A",
-    "Quote": "Hey, I was still reading! Don't switch tabs on me!",
-    "Category": "Understandable",
+    "quote": "Hey, I was still reading! Don't switch tabs on me!",
+    "category": "Understandable",
     "subCategory": "Predictable",
     "disability": "Cognitive Impairments, Visual Impairments",
     "suggestionForIllustration": "A character jolted as the webpage suddenly changes upon their input.",
     "wcagDescription": "Changing the setting of any user interface component does not automatically cause a change of context unless the user has been advised of the behavior before using the component.",
     "teamRecommendations": {
-      "ProductManager": "Inform users about any context changes resulting from their actions.",
-      "UX": "Include clear indications or warnings if input will lead to changes in context.",
-      "Developer": "Implement alerts or tooltips to warn users about impending context changes due to input.",
-      "QA": "Test to ensure that context changes upon input are clearly communicated."
+      "pm": "Inform users about any context changes resulting from their actions.",
+      "ux": "Include clear indications or warnings if input will lead to changes in context.",
+      "dev": "Implement alerts or tooltips to warn users about impending context changes due to input.",
+      "qa": "Test to ensure that context changes upon input are clearly communicated."
     },
     "thankfulNote": "No more surprises! Now I feel like I'm in control. You guys rock!"
   },
@@ -1029,17 +1029,17 @@
     "id": "3.2.3",
     "title": "Consistent Navigation",
     "level": "Level AA",
-    "Quote": "Where did the menu go? It was at the top, now it's at the bottom? Make up your mind, website!",
-    "Category": "Understandable",
+    "quote": "Where did the menu go? It was at the top, now it's at the bottom? Make up your mind, website!",
+    "category": "Understandable",
     "subCategory": "Predictable",
     "disability": "Cognitive Impairments, Visual Impairments",
     "suggestionForIllustration": "A character confused by inconsistent navigation elements that keep changing positions.",
     "wcagDescription": "Navigational mechanisms that are repeated on multiple web pages within a set of web pages occur in the same relative order each time they are repeated.",
     "teamRecommendations": {
-      "ProductManager": "Ensure a consistent navigational structure across the website.",
-      "UX": "Design navigation elements to appear in the same relative order on all pages.",
-      "Developer": "Use a consistent template for the navigational elements.",
-      "QA": "Verify that the navigation is consistent across different pages and sections."
+      "pm": "Ensure a consistent navigational structure across the website.",
+      "ux": "Design navigation elements to appear in the same relative order on all pages.",
+      "dev": "Use a consistent template for the navigational elements.",
+      "qa": "Verify that the navigation is consistent across different pages and sections."
     },
     "thankfulNote": "Finally, I can navigate without feeling like I'm in a maze. You're a lifesaver!"
   },
@@ -1047,17 +1047,17 @@
     "id": "3.2.4",
     "title": "Consistent Identification",
     "level": "Level AA",
-    "Quote": "Why is 'Sign Out' called 'Log Off' on another page? Are you trying to confuse me?",
-    "Category": "Understandable",
+    "quote": "Why is 'Sign Out' called 'Log Off' on another page? Are you trying to confuse me?",
+    "category": "Understandable",
     "subCategory": "Predictable",
     "disability": "Cognitive Impairments, Visual Impairments",
     "suggestionForIllustration": "A character perplexed by inconsistent terminology for the same action on different pages.",
     "wcagDescription": "Components that have the same functionality within a set of web pages are identified consistently.",
     "teamRecommendations": {
-      "ProductManager": "Adopt a uniform naming convention for similar functionalities.",
-      "UX": "Use consistent icons and labels for the same actions across the site.",
-      "Developer": "Implement a style guide to keep naming and actions consistent.",
-      "QA": "Test to ensure that similar actions are consistently identified across the site."
+      "pm": "Adopt a uniform naming convention for similar functionalities.",
+      "ux": "Use consistent icons and labels for the same actions across the site.",
+      "dev": "Implement a style guide to keep naming and actions consistent.",
+      "qa": "Test to ensure that similar actions are consistently identified across the site."
     },
     "thankfulNote": "Now I don't need a decoder ring to use your site. High five!"
   },
@@ -1065,17 +1065,17 @@
     "id": "3.2.5",
     "title": "Change on Request",
     "level": "Level AAA",
-    "Quote": "Don't move the ground beneath me unless I say so. Changes should happen on my cue!",
-    "Category": "Understandable",
+    "quote": "Don't move the ground beneath me unless I say so. Changes should happen on my cue!",
+    "category": "Understandable",
     "subCategory": "Predictable",
     "disability": "Cognitive Impairments, Visual Impairments",
     "suggestionForIllustration": "A character holding a remote control, emphasizing that they have the power to initiate changes.",
     "wcagDescription": "Changes in context are only made upon the user's request, preventing disorientation or confusion by ensuring users have control over when changes occur.",
     "teamRecommendations": {
-      "ProductManager": "Design functionality that requires explicit user action to initiate any change in context.",
-      "UX": "Ensure that user interfaces are designed to minimize unexpected changes, providing controls for users to initiate changes.",
-      "Developer": "Implement mechanisms that prevent automatic context changes unless initiated by the user.",
-      "QA": "Test to ensure that context changes do not occur without user initiation or clear options to disable such changes."
+      "pm": "Design functionality that requires explicit user action to initiate any change in context.",
+      "ux": "Ensure that user interfaces are designed to minimize unexpected changes, providing controls for users to initiate changes.",
+      "dev": "Implement mechanisms that prevent automatic context changes unless initiated by the user.",
+      "qa": "Test to ensure that context changes do not occur without user initiation or clear options to disable such changes."
     },
     "thankfulNote": "Being in control of changes makes me feel empowered and oriented. Thanks for putting me in the driver's seat!"
   },
@@ -1083,17 +1083,17 @@
     "id": "3.2.6",
     "title": "Consistent Help",
     "level": "Level A",
-    "Quote": "Whether I'm lost or just curious, knowing where to find help is a relief. Keep it consistent!",
-    "Category": "Understandable",
+    "quote": "Whether I'm lost or just curious, knowing where to find help is a relief. Keep it consistent!",
+    "category": "Understandable",
     "subCategory": "Predictable",
     "disability": "All users, particularly those with cognitive impairments",
     "suggestionForIllustration": "A character easily finding the help button in the same spot across different pages.",
     "wcagDescription": "When web pages within a set provide help mechanisms, such as contact information or self-help links, these mechanisms are presented in the same order to maintain consistency across the site.",
     "teamRecommendations": {
-      "ProductManager": "Standardize the placement and presentation of help mechanisms across the platform.",
-      "UX": "Design the layout so that help options are consistently located and accessible across different pages.",
-      "Developer": "Structure the HTML to maintain a consistent order for help mechanisms within the site's navigation or footer.",
-      "QA": "Verify that help mechanisms appear in a consistent location and order across the website, enhancing predictability for users."
+      "pm": "Standardize the placement and presentation of help mechanisms across the platform.",
+      "ux": "Design the layout so that help options are consistently located and accessible across different pages.",
+      "dev": "Structure the HTML to maintain a consistent order for help mechanisms within the site's navigation or footer.",
+      "qa": "Verify that help mechanisms appear in a consistent location and order across the website, enhancing predictability for users."
     },
     "thankfulNote": "Finding help where and when I expect it turns a moment of frustration into a positive experience. Cheers for the consistent support!"
   },
@@ -1101,17 +1101,17 @@
     "id": "3.3.1",
     "title": "Error Identification",
     "level": "Level A",
-    "Quote": "Oops, did I make a typo? A little hint would be nice so I can fix it right up!",
-    "Category": "Understandable",
+    "quote": "Oops, did I make a typo? A little hint would be nice so I can fix it right up!",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "Various, including Cognitive Impairments, Visual Impairments",
     "suggestionForIllustration": "A character looking puzzled at a computer screen with a highlighted error message.",
     "wcagDescription": "Automatically detected input errors are identified and described to the user in text.",
     "teamRecommendations": {
-      "ProductManager": "Implement clear error identification mechanisms for all forms and inputs.",
-      "UX": "Design error messages that are specific about what the error is and where it occurred.",
-      "Developer": "Code forms to automatically detect and describe errors in text near the input field.",
-      "QA": "Test to ensure that error messages are clear, descriptive, and accessible."
+      "pm": "Implement clear error identification mechanisms for all forms and inputs.",
+      "ux": "Design error messages that are specific about what the error is and where it occurred.",
+      "dev": "Code forms to automatically detect and describe errors in text near the input field.",
+      "qa": "Test to ensure that error messages are clear, descriptive, and accessible."
     },
     "thankfulNote": "Thanks for the heads-up on my mistakes. Correcting them was a breeze with your clear directions!"
   },
@@ -1119,17 +1119,17 @@
     "id": "3.3.2",
     "title": "Labels or Instructions",
     "level": "Level A",
-    "Quote": "Tell me what you want, what you really, really want from this form field!",
-    "Category": "Understandable",
+    "quote": "Tell me what you want, what you really, really want from this form field!",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "Various, especially Cognitive Impairments",
     "suggestionForIllustration": "A character cheerfully filling out a form, with clear labels and instructions visible.",
     "wcagDescription": "Labels or instructions are provided for content that requires user input.",
     "teamRecommendations": {
-      "ProductManager": "Ensure all input fields have associated labels and instructions.",
-      "UX": "Design forms with clear, concise labels and instructions for each field.",
-      "Developer": "Use proper HTML elements (<label>, aria-label, or aria-labelledby) to associate text labels with form controls.",
-      "QA": "Verify labels and instructions are correctly implemented and accessible."
+      "pm": "Ensure all input fields have associated labels and instructions.",
+      "ux": "Design forms with clear, concise labels and instructions for each field.",
+      "dev": "Use proper HTML elements (<label>, aria-label, or aria-labelledby) to associate text labels with form controls.",
+      "qa": "Verify labels and instructions are correctly implemented and accessible."
     },
     "thankfulNote": "Filling out your forms feels like a conversation. I always know exactly what to do!"
   },
@@ -1137,17 +1137,17 @@
     "id": "3.3.3",
     "title": "Error Suggestion",
     "level": "Level AA",
-    "Quote": "Made a mistake? No worries, here's a hint to get it right!",
-    "Category": "Understandable",
+    "quote": "Made a mistake? No worries, here's a hint to get it right!",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "Cognitive Impairments, Learning Disabilities",
     "suggestionForIllustration": "A character smiling as they read a helpful suggestion correcting their form error.",
     "wcagDescription": "If an input error is automatically detected and suggestions for correction are known, those suggestions are provided to the user.",
     "teamRecommendations": {
-      "ProductManager": "Incorporate error correction suggestions within the error identification process.",
-      "UX": "Design intuitive and helpful error suggestions that guide users to correct mistakes.",
-      "Developer": "Develop functionality to provide actionable suggestions when common errors are detected.",
-      "QA": "Test to ensure error suggestions are helpful, accurate, and do not compromise security."
+      "pm": "Incorporate error correction suggestions within the error identification process.",
+      "ux": "Design intuitive and helpful error suggestions that guide users to correct mistakes.",
+      "dev": "Develop functionality to provide actionable suggestions when common errors are detected.",
+      "qa": "Test to ensure error suggestions are helpful, accurate, and do not compromise security."
     },
     "thankfulNote": "Your suggestions made fixing errors a snap. It's like having a friendly guide by my side!"
   },
@@ -1155,17 +1155,17 @@
     "id": "3.3.4",
     "title": "Error Prevention (Legal, Financial, Data)",
     "level": "Level AA",
-    "Quote": "Before we seal the deal, let's double-check. No regrets, right?",
-    "Category": "Understandable",
+    "quote": "Before we seal the deal, let's double-check. No regrets, right?",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "All users, especially those with Cognitive Impairments",
     "suggestionForIllustration": "A character reviewing a summary of their actions on a computer screen before making a final decision.",
     "wcagDescription": "For web pages that cause legal commitments or financial transactions for the user to occur, that modify or delete user-controllable data in data storage systems, or that submit user test responses, actions are reversible, checked for input errors, and confirmed before final submission.",
     "teamRecommendations": {
-      "ProductManager": "Incorporate review, confirmation, and correction steps before finalizing sensitive transactions.",
-      "UX": "Design clear review pages that summarize user actions and decisions before final confirmation.",
-      "Developer": "Implement mechanisms for reviewing, confirming, and correcting information prior to submission.",
-      "QA": "Test the process to ensure users can easily review, correct, and confirm actions without confusion."
+      "pm": "Incorporate review, confirmation, and correction steps before finalizing sensitive transactions.",
+      "ux": "Design clear review pages that summarize user actions and decisions before final confirmation.",
+      "dev": "Implement mechanisms for reviewing, confirming, and correcting information prior to submission.",
+      "qa": "Test the process to ensure users can easily review, correct, and confirm actions without confusion."
     },
     "thankfulNote": "Knowing I can review and confirm my actions gives me peace of mind. No surprises!"
   },
@@ -1173,17 +1173,17 @@
     "id": "3.3.5",
     "title": "Help",
     "level": "Level AAA",
-    "Quote": "A little help goes a long way. Especially when it's just a click away.",
-    "Category": "Understandable",
+    "quote": "A little help goes a long way. Especially when it's just a click away.",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "All users, particularly those with Cognitive Impairments",
     "suggestionForIllustration": "A character clicking a \"Help\" icon and receiving instant assistance on a webpage.",
     "wcagDescription": "Context-sensitive help is available for users who need assistance while navigating or interacting with a website.",
     "teamRecommendations": {
-      "ProductManager": "Ensure context-sensitive help is readily available across the platform.",
-      "UX": "Design an intuitive help system that users can easily access without disrupting their workflow.",
-      "Developer": "Implement a help feature that provides relevant, context-sensitive assistance.",
-      "QA": "Test the help feature for accessibility, ensuring it provides valuable support for users' needs."
+      "pm": "Ensure context-sensitive help is readily available across the platform.",
+      "ux": "Design an intuitive help system that users can easily access without disrupting their workflow.",
+      "dev": "Implement a help feature that provides relevant, context-sensitive assistance.",
+      "qa": "Test the help feature for accessibility, ensuring it provides valuable support for users' needs."
     },
     "thankfulNote": "Whenever I hit a snag, your instant help was there to guide me. It's like having a wise friend always by my side!"
   },
@@ -1191,17 +1191,17 @@
     "id": "3.3.6",
     "title": "Error Prevention (All)",
     "level": "Level AAA",
-    "Quote": "Let's get it right the first time. But just in case, how about a safety net?",
-    "Category": "Understandable",
+    "quote": "Let's get it right the first time. But just in case, how about a safety net?",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "All users, with an emphasis on those prone to making mistakes",
     "suggestionForIllustration": "A character confidently walking a tightrope with a safety net below.",
     "wcagDescription": "For web pages that require users to submit information, submissions are reversible, checked for input errors, and confirmed before finalizing, to prevent errors.",
     "teamRecommendations": {
-      "ProductManager": "Design all information submission processes to be foolproof with safeguards against errors.",
-      "UX": "Create an engaging user experience that includes easy ways to reverse actions, check for and correct errors.",
-      "Developer": "Build functionalities that allow users to review, correct, and confirm their information before submission.",
-      "QA": "Ensure thorough testing of the submission process to verify error prevention measures are effective."
+      "pm": "Design all information submission processes to be foolproof with safeguards against errors.",
+      "ux": "Create an engaging user experience that includes easy ways to reverse actions, check for and correct errors.",
+      "dev": "Build functionalities that allow users to review, correct, and confirm their information before submission.",
+      "qa": "Ensure thorough testing of the submission process to verify error prevention measures are effective."
     },
     "thankfulNote": "Thanks for the safety net! It's reassuring to know I can review and tweak things before making them final. You've made the web a friendlier place for everyone."
   },
@@ -1209,17 +1209,17 @@
     "id": "3.3.7",
     "title": "Redundant Entry",
     "level": "Level A) [New",
-    "Quote": "Why tell you something twice? Remember what I said the first time, please!",
-    "Category": "Understandable",
+    "quote": "Why tell you something twice? Remember what I said the first time, please!",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "All users, especially those with Cognitive Impairments",
     "suggestionForIllustration": "A character looking annoyed as they fill out a form with the same information they've already provided.",
     "wcagDescription": "Information previously entered by or provided to the user is auto-populated if required again, reducing the need for redundant entry.",
     "teamRecommendations": {
-      "ProductManager": "Minimize the need for users to re-enter information they've already provided.",
-      "UX": "Design forms and interfaces that leverage auto-population for previously entered information.",
-      "Developer": "Implement auto-population of fields based on previously entered information.",
-      "QA": "Test to ensure that information is correctly auto-populated, reducing the need for redundant entry."
+      "pm": "Minimize the need for users to re-enter information they've already provided.",
+      "ux": "Design forms and interfaces that leverage auto-population for previously entered information.",
+      "dev": "Implement auto-population of fields based on previously entered information.",
+      "qa": "Test to ensure that information is correctly auto-populated, reducing the need for redundant entry."
     },
     "thankfulNote": "Seeing my info already there when I need it again makes everything smoother and faster. Thanks for valuing my time and effort!"
   },
@@ -1227,17 +1227,17 @@
     "id": "3.3.8",
     "title": "Accessible Authentication (Minimum)",
     "level": "Level AA) [New",
-    "Quote": "Remembering passwords is tough. How about we keep it simple but secure?",
-    "Category": "Understandable",
+    "quote": "Remembering passwords is tough. How about we keep it simple but secure?",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "Cognitive Impairments, Memory",
     "suggestionForIllustration": "A character looking frustrated while trying to remember a password, with a simplified login screen showing an alternative option.",
     "wcagDescription": "For any step in an authentication process, alternatives are provided that do not rely on cognitive function tests, such as remembering or solving puzzles.",
     "teamRecommendations": {
-      "ProductManager": "Explore and implement authentication methods that minimize cognitive load, such as biometric or device-based authentication.",
-      "UX": "Design authentication processes that are intuitive and provide alternatives to traditional memory-based passwords.",
-      "Developer": "Integrate authentication alternatives that accommodate users with cognitive impairments, ensuring security without reliance on memory tests.",
-      "QA": "Test authentication processes to ensure they are accessible to users with various cognitive abilities, focusing on ease of use and security."
+      "pm": "Explore and implement authentication methods that minimize cognitive load, such as biometric or device-based authentication.",
+      "ux": "Design authentication processes that are intuitive and provide alternatives to traditional memory-based passwords.",
+      "dev": "Integrate authentication alternatives that accommodate users with cognitive impairments, ensuring security without reliance on memory tests.",
+      "qa": "Test authentication processes to ensure they are accessible to users with various cognitive abilities, focusing on ease of use and security."
     },
     "thankfulNote": "Logging in has never been easier! Thanks for making security hassle-free and inclusive."
   },
@@ -1245,17 +1245,17 @@
     "id": "3.3.9",
     "title": "Accessible Authentication (Enhanced)",
     "level": "Level AAA) [New",
-    "Quote": "Security shouldn't be a puzzle. Let's make access straightforward for everyone.",
-    "Category": "Understandable",
+    "quote": "Security shouldn't be a puzzle. Let's make access straightforward for everyone.",
+    "category": "Understandable",
     "subCategory": "Input Assistance",
     "disability": "Cognitive Impairments, Memory",
     "suggestionForIllustration": "A character easily accessing a secure service without the need for complex passwords or cognitive challenges, possibly using a security token or facial recognition.",
     "wcagDescription": "Authentication processes offer methods that do not require cognitive function tests or provide support to assist users in completing these tests, ensuring that access is straightforward and does not exclude users with cognitive disabilities.",
     "teamRecommendations": {
-      "ProductManager": "Prioritize the development of enhanced authentication methods that cater to a wide range of cognitive abilities.",
-      "UX": "Create a seamless authentication experience that supports users with cognitive impairments, using clear instructions and alternative access methods.",
-      "Developer": "Develop and implement support mechanisms within authentication processes, such as object recognition or the use of personal content, to assist users.",
-      "QA": "Conduct comprehensive testing to validate that the authentication process is accessible, focusing on users with cognitive impairments and ensuring the process is easy and secure."
+      "pm": "Prioritize the development of enhanced authentication methods that cater to a wide range of cognitive abilities.",
+      "ux": "Create a seamless authentication experience that supports users with cognitive impairments, using clear instructions and alternative access methods.",
+      "dev": "Develop and implement support mechanisms within authentication processes, such as object recognition or the use of personal content, to assist users.",
+      "qa": "Conduct comprehensive testing to validate that the authentication process is accessible, focusing on users with cognitive impairments and ensuring the process is easy and secure."
     },
     "thankfulNote": "Your inclusive approach to security has opened doors for me that were once closed. Thank you for empowering me with easy access!"
   },
@@ -1263,17 +1263,17 @@
     "id": "4.1.1",
     "title": "Parsing",
     "level": "Level A) (Deprecated",
-    "Quote": "Your website's code is like a bowl of spaghetti—everything's tangled up!",
-    "Category": "Robust",
+    "quote": "Your website's code is like a bowl of spaghetti—everything's tangled up!",
+    "category": "Robust",
     "subCategory": "Comparable",
     "disability": "Various, as poorly structured code impacts assistive technologies",
     "suggestionForIllustration": "A character tangled up in strings of code, struggling to navigate.",
     "wcagDescription": "In content implemented using markup languages, elements have complete start and end tags, elements are nested according to their specifications, elements do not contain duplicate attributes, and any IDs are unique.",
     "teamRecommendations": {
-      "ProductManager": "Prioritize clean and well-structured code for better compatibility with assistive technologies.",
-      "UX": "Ensure designs can be implemented using semantic HTML and proper nesting.",
-      "Developer": "Adhere to HTML best practices, ensuring complete start and end tags, unique IDs, and no duplicate attributes.",
-      "QA": "Automate tests to scan for HTML errors and correct them before deployment."
+      "pm": "Prioritize clean and well-structured code for better compatibility with assistive technologies.",
+      "ux": "Ensure designs can be implemented using semantic HTML and proper nesting.",
+      "dev": "Adhere to HTML best practices, ensuring complete start and end tags, unique IDs, and no duplicate attributes.",
+      "qa": "Automate tests to scan for HTML errors and correct them before deployment."
     },
     "thankfulNote": "Now that you've cleaned up, my screen reader doesn't act like it's in a maze. Kudos!"
   },
@@ -1281,17 +1281,17 @@
     "id": "4.1.2",
     "title": "Name, Role, Value",
     "level": "Level A",
-    "Quote": "'Button1'? 'Button2'? What do these buttons even do? Give 'em proper names!",
-    "Category": "Robust",
+    "quote": "'Button1'? 'Button2'? What do these buttons even do? Give 'em proper names!",
+    "category": "Robust",
     "subCategory": "Comparable",
     "disability": "Screen reader users, Cognitive Impairments",
     "suggestionForIllustration": "A character perplexed by a control panel full of unnamed buttons.",
     "wcagDescription": "For all user interface components, the name, role, and value can be programmatically determined.",
     "teamRecommendations": {
-      "ProductManager": "Ensure that all UI elements are labeled in a way that makes their purpose clear.",
-      "UX": "Design buttons and other UI components with clear labels and roles.",
-      "Developer": "Implement ARIA roles and proper tagging for interactive elements.",
-      "QA": "Test the website with screen readers and other assistive technologies to ensure all elements are properly labeled."
+      "pm": "Ensure that all UI elements are labeled in a way that makes their purpose clear.",
+      "ux": "Design buttons and other UI components with clear labels and roles.",
+      "dev": "Implement ARIA roles and proper tagging for interactive elements.",
+      "qa": "Test the website with screen readers and other assistive technologies to ensure all elements are properly labeled."
     },
     "thankfulNote": "With these new labels, I feel like I've got the control panel of a spaceship, not a mystery box. Thanks!"
   },
@@ -1299,17 +1299,17 @@
     "id": "4.1.3",
     "title": "Status Messages",
     "level": "Level AA",
-    "Quote": "A little heads-up would be nice, you know! Did my form go through or not?",
-    "Category": "Robust",
+    "quote": "A little heads-up would be nice, you know! Did my form go through or not?",
+    "category": "Robust",
     "subCategory": "Comparable",
     "disability": "Screen reader users, Cognitive Impairments",
     "suggestionForIllustration": "A character staring anxiously at a computer screen, waiting for a form submission confirmation.",
     "wcagDescription": "In content implemented using markup languages, status messages can be programmatically determined through role or properties such that they can be presented to the user by assistive technologies without receiving focus.",
     "teamRecommendations": {
-      "ProductManager": "Incorporate clear status messages for actions taken on the website.",
-      "UX": "Design non-intrusive but clear status messages that do not require user interaction to disappear.",
-      "Developer": "Use ARIA roles to make status messages accessible to assistive technologies.",
-      "QA": "Test the accessibility and clarity of status messages with screen readers and other assistive devices."
+      "pm": "Incorporate clear status messages for actions taken on the website.",
+      "ux": "Design non-intrusive but clear status messages that do not require user interaction to disappear.",
+      "dev": "Use ARIA roles to make status messages accessible to assistive technologies.",
+      "qa": "Test the accessibility and clarity of status messages with screen readers and other assistive devices."
     },
     "thankfulNote": "Now I know what's happening instead of sitting here guessing. You've made my life easier!"
   }
